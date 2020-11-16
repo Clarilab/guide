@@ -1,6 +1,7 @@
 ---
 layout: default
 title: schnellstart
+published: true
 ---
 
 # Schnellstart
@@ -18,4 +19,4 @@ Transparenzregister sowie zu Dun&Bradstreet für Unternehmen die international t
 
 ## Unternehmen hinzufügen
 Das ist der erste Schritt, der in der KYCnowView stattfindet, wenn das Onboarding durch den Verpflichteten erfolgt.  
-Im Hinzufügen kann der KYCnow- Nutzer (Verfplichtete) nach Unternehmen in dem KYCnow- Kundenbestand suchen und diese in der eigenen Liste hinzufügen.
+Im Hinzufügen kann der KYCnow- Nutzer (Verpflichtete) nach Unternehmen in dem KYCnow- Kundenbestand suchen und diese in der eigenen Liste hinzufügen.

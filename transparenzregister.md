@@ -8,7 +8,8 @@ title: transparenzregister
 Mit diesem Modul wollen wir Ihnen den Umgang mit dem Transparenzregister erleichtern und Sie darin unterstützen Compliance-Prozesse effizienter und effektiver zu gestalten. Im Folgenden beschreiben wir, wie Sie das Modul erfolgreich einrichten und beantworten Fragen zum Umgang mit dem Modul und wie dieses technisch funktioniert.  
 Sollten Ihre Fragen mithilfe dieses Handbuchs nicht beantwortet werden, senden Sie uns einfach eine Mail an ([fragestunde@kycnow.de](mailto:fragestunde@kycnow.de)). Eine Frage, die uns oft erreicht, wollen wir vorweg beantworten:
 
-## Welche Leistungen bieten Sie an? 
+## Welche Leistungen bieten Sie an?
+
 Unsere Leistungen im Zusammenhang mit dem Transparenzregister lassen sich in drei Kategorien unterteilen: 
  
 - Abruf von Daten
@@ -16,16 +17,20 @@ Unsere Leistungen im Zusammenhang mit dem Transparenzregister lassen sich in dre
 - Unstimmigkeitsmeldungen
 
 ## Einrichten des Moduls
+
 Um unser Modul erfolgreich nutzen zu können, müssen Sie zuvor folgende Schritte erledigt haben:
-1. Account beim Bundesanzeiger anlegen. 
+
+1. Account beim Bundesanzeiger anlegen.
 2. Die Login-Daten für den Bundesanzeiger in unserer Anwendung unter „Einstellungen“ hinterlegen.
 ![Einstellungen](/assets/transparenzregister/einstellungen.png)
+
 1. Die Zahlungsart, die Sie beim Transparenzregister hinterlegt haben, im Rahmen des Onboardings bei uns hinterlegen. Mit dieser müssen Sie außerdem mindestens 1x erfolgreich beim Transparenzregister bestellt haben.
     * Zahlen Sie per Lastschrift, bitten wir Sie anzukreuzen, die Kontodaten vorzubelegen.
     ![kontodaten](/assets/transparenzregister/kontodaten.png)
 2. Stellen Sie bitte sicher, dass vor jeder Bestellung mit Hilfe von KYCnow ihr Dokumentenkorb im Transparenzregister leer ist.
 
 ### Brauche ich einen eigenen Account beim Bundesanzeiger?
+
 Ja, Sie müssen einen Account beim Bundesanzeiger anlegen. Über diesen Account wird mit dem Transparenzregister interagiert, also bspw. Abfragen getätigt oder Unstimmigkeitsmeldungen versendet.
 
 Ihre Login-Daten werden dabei verschlüsselt hinterlegt, sodass diese nur von Ihnen geändert werden können. Die Login-Daten werden zu Beginn automatisch von uns validiert und können zu keinem Zeitpunkt eingesehen werden.
@@ -53,15 +58,20 @@ Dies führt zu einer [Unstimmigkeitsmeldung](#unstimmigkeitsmeldungen).
 ![companywaehlen](/assets/transparenzregister/companywaehlen.png)
 
 Um den Bestellvorgang abzuschließen, müssen Sie den Anfragegrund angeben. Dieses Feld ist zwingend auszufüllen.
+
+
 ![anfragegrund](/assets/transparenzregister/anfragegrund.png)
 
 ### Beziehen Sie die Daten direkt vom Bundesanzeiger?
+
 Nein, wir stehen in keiner Partnerschaft mit dem Bundesanzeiger, sondern erhalten die Daten durch Abruf des Transparenzregisters.
 
 ### Brauche ich weiterhin ein berechtigtes Interesse?
+
 Ja, ein berechtigtes Interesse ist verpflichtend.
 
 ### Wie schnell kommen die Daten wieder zurück?
+
 Wir können keine konkrete Zeit angeben, da wir bei der Bearbeitung der Abfragen nicht involviert sind. Hat der Bundesanzeiger die Abfrage bearbeitet, bekommen Sie dies von uns sofort mitgeteilt. Die Verzögerung zwischen der Mitteilung des Bundesanzeigers und der Weiterleitung durch uns beträgt nur wenige Minuten. 
 
 Die Bearbeitungsdauer durch den Bundesanzeiger beträgt wenige Stunden mitunter aber auch mehrere Tage.
@@ -74,6 +84,7 @@ Wir haben die Erfahrung gemacht, dass eine detailliertere Beschreibung des berec
 ---
 
 ### Erhalten wir die Daten auch strukturiert?
+
 Ja, dazu lesen wir die Dokumente via OCR (optische Zeichenerkennung) aus.
 Die Struktur ist wie folgt:
 1. Vorname

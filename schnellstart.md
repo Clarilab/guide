@@ -14,20 +14,20 @@ published: true
 
 KYCnow ermöglicht einen automatischen Abzug aller KYC-relevanten Daten und Dokumente, um diese dem Nutzer über eine Schnittstelle oder eine Web-Anwendung zugänglich zu machen. Diese Daten und Dokumente werden von KYCnow aufbereitet und ausgewertet, um dem Nutzer eine Empfehlung über das Geldwäsche-Risiko eines (potentiellen) Kunden zu liefern.
 
-Die Daten und Dokumente erhält KYCnow über eine Schnittstelle zu der Schufa, zu den landesspezifischen Handelsregistern, zu dem
-Transparenzregister sowie zu Dun&Bradstreet für Unternehmen die international verzweigt sind. Diese Daten und Dokumente werden in KYCnow abegelgt und sind für den Kunden jederzeit zugänglich. Um ein neues Unternehmen in den Prozess aufzunehmen, steht ein Onboarding bereit, welches sowohl vom Endkunden als auch vom Kundenberater durchgeführt werden kann.
+Die Daten und Dokumente erhält KYCnow über Schnittstellen zu Schufa, landesspezifischen Handelsregistern, dem
+Transparenzregister sowie Dun&Bradstreet für Unternehmen die international verzweigt sind. Diese Daten und Dokumente werden in KYCnow abgelegt und sind für den Nutzer jederzeit einsehbar. Um ein neues Unternehmen in den Prozess aufzunehmen, steht ein Onboarding bereit, welches sowohl vom Endkunden als auch vom Nutzer durchgeführt werden kann.
 
 ## Fall anlegen
 
 ![linkeleiste_fallanlegen](/assets/schnellstart/linkeleiste_fallanlegen.png)
 
 Um eine neue KYC-Akte zu eröffnen, müssen Sie zunächst einen Fall anlegen.
-Mit Eingabe des zu überprüfenden Kunden in die Suchleiste können sie aus einer Trefferliste das gewünschte Unternehmen aussuchen.
+Mit Eingabe des zu überprüfenden Unternhemn in die Suchleiste können Sie aus einer Trefferliste das gewünschte Unternehmen auswählen.
 
 ![fallanlegen_1:2](/assets/schnellstart/fallanlegen_1:2.png)
 
 Haben Sie das gesuchte Unternehmen gefunden, können Sie durch „Hinzufügen“ den Fall neu anlegen und das Unternehmen fortan im Bereich „Neue Fälle“ aufrufen.
-Pro Unternehmen kann eine einzige Akte eröffnet werden. Ist ein Unternehmen bereits in „Neue Fälle“ oder „Bestand“ vorhanden, kann dieses nicht neu hinzugefügt werden.
+Pro Unternehmen kann eine einzige Akte angelegt werden. Ist ein Unternehmen bereits in „Neue Fälle“ oder „Bestand“ vorhanden, kann dieses nicht neu hinzugefügt werden.
 
 ---
 
@@ -54,10 +54,10 @@ Auch hier können Sie anschließend durch „Hinzufügen“ eine neue Akte anleg
 
 ![linkeleiste_recherche](assets/schnellstart/linkeleiste_recherche.png)
 
-Sollte das von Ihnen gesuchte Unternehmen nicht gefunden werden, haben Sie die Möglichkeit eine manuelle Recherche für dieses Unternehmen anzufordern. Hier anstehen keine Extrakosten, sondern das Unternehmen wird auf seine Existenz geprüft und ist künftig in der Suche zu finden.
+Sollte das von Ihnen gesuchte Unternehmen nicht gefunden werden, haben Sie die Möglichkeit eine manuelle Recherche für dieses Unternehmen anzufordern. Hier entstehen keine zusätzlichen Kosten. Das Unternehmen wird auf Existenz geprüft und ist künftig in der Suche zu finden.
 Drücken Sie bitte hierfür auf „Manuelle Recherche anfordern“.
-Zur manuellen Recherche, müssen alle Felder der erweiterten Suche ausgefüllt worden sein. Geben Sie wenn möglich eien Existenzbelegt, z.B. ein Gewerbeschein, als PDF hinzu.
-Die manuelle Bearbeitung einer Anfrage dauert einige Werktage.
+Zur manuellen Recherche, müssen alle Felder der erweiterten Suche ausgefüllt werden. Wenn möglich geben Sie einen Existenzbeleg, z.B. einen Gewerbeschein, als PDF hinzu.
+Die manuelle Bearbeitung einer Anfrage dauert wenige Werktage.
 Haben Sie eine manuelle Recherche angefordert, ist das Unternehmen für die Dauer der Recherche im Reiter „Recherche“ aufgelistet.
 
 ![recherche](assets/schnellstart/recherche.png)
@@ -68,8 +68,8 @@ Haben Sie eine manuelle Recherche angefordert, ist das Unternehmen für die Daue
 
 ![linkeleiste_neuefaelle](assets/schnellstart/linkeleiste_neuefaelle.png)
 
-Im Bereich „Neue Fälle“ finden Sie sämtliche KYC-Akten, die noch nicht abgeschlossen sind. Angezeigt wird neben dem Namen des jeweiligen Unternehmens auch das Datum an dem der Fall angelegt wurde sowie die automatisch errechnete KYC-Risikoeinstufung.
-Sie können mit Hilfe der Auswahlleiste eine Auswahl der angezeigten Fälle vornehmen. Es kann ausgewählt werden zwischen:
+Im Bereich „Neue Fälle“ finden Sie sämtliche KYC-Akten, die noch nicht abgeschlossen sind. Angezeigt wird neben dem Namen des jeweiligen Unternehmens auch das Datum zu dem der Fall angelegt wurde sowie die automatisch errechnete KYC-Risikoeinstufung.
+Sie können mit Hilfe der Buttons eine Auswahl der angezeigten Fälle vornehmen.Es kann ausgewählt werden zwischen:
 
 ![toggle_unternehmennatpersonen](assets/schnellstart/toggle_unternehmennatpersonen.png)
 
@@ -79,8 +79,8 @@ und
 
 (Einsicht in „Alle Fälle“ nur als Administrator möglich, falls nicht jeder User Ihres Unternehmens grundsätzlich dazu berechtigt ist)
 
-Sie können außerdem mithilfe der Suchleiste nach einem offenen Fall suchen.
-Durch Anklicken eines Falls gelangen Sie zur jeweiligen Akten-Übersicht.
+Mit Hilfe der Suchleiste ist es möglich nach einem Fall zu suchen.
+Durch Anklicken einer Akte gelangen Sie zur jeweiligen Akten-Übersicht.
 
 ---
 

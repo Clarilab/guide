@@ -104,6 +104,14 @@ Sollte eine Aktualisierung bzw. Erweiterung der Daten erforderlich sein können 
 
 ---
 
+### Personen
+
+![neuefaelle_personen](assets/schnellstart/neuefaelle_personen.png)
+
+Hier finden Sie alle notwendigen Informationen zu den gesetzlichen Vertretern sowie den wirtschaftlich Berechtigten
+Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisierung / Erweiterung der Daten beantragen.
+
+---
 
 ### Dokumente
 
@@ -125,18 +133,14 @@ Darüber hinaus können Sie eigene Dokumente hochladen.
 
 ---
 
-### Transparenzregister
+### Verflechtungsgraph
 
-![neuefaelle_transparenzregister](/assets/schnellstart/neuefaelle_transparenzregister.png)
+![neuefaelle_verflechtungsgraph](assets/schnellstart/neuefaelle_verflechtungsgraph.png)
 
-Hier können Sie:
-
-- Wirtschaftlich Berechtigte selbstständig oder automatisch hinzufügen
-- Unstimmigkeitsmeldungen aufgeben
-- Transparenzregisterauszug herunterladen
-
-Einen Guide zum Nutzen des KYCnow-Moduls "Transparenzregister" finden Sie [hier](transparenzregister)
-
+Der Verflechtungsgraph visualisiert all die natürlichen und juristischen Personen, die direkt oder indirekt an dem Hauptunternehmenskapital beteiligt sind.
+Sie können den Verflechtungsgraph auch zur Visualisierung der Ermittlung der wirtschaftlich Berechtigten nutzen.
+Darüber hinaus können Sie den Verflechtungsgraph als PDF speichern.
+Bitte beachten Sie, dass wir keine Stimmrechtsanteile miteinbeziehen.
 ---
 
 ### Namescreening
@@ -166,23 +170,17 @@ Das Mediascreening sucht nach (Nachrichten-)Artikel, Social-Media-Profilen, usw
 
 ---
 
-### Personen
+### Transparenzregister
 
-![neuefaelle_personen](assets/schnellstart/neuefaelle_personen.png)
+![neuefaelle_transparenzregister](/assets/schnellstart/neuefaelle_transparenzregister.png)
 
-Hier finden Sie alle notwendigen Informationen zu den gesetzlichen Vertretern sowie den wirtschaftlich Berechtigten
-Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisierung / Erweiterung der Daten beantragen.
+Hier können Sie:
 
----
+- Wirtschaftlich Berechtigte selbstständig oder automatisch hinzufügen
+- Unstimmigkeitsmeldungen aufgeben
+- Transparenzregisterauszug herunterladen
 
-### Verflechtungsgraph
-
-![neuefaelle_verflechtungsgraph](assets/schnellstart/neuefaelle_verflechtungsgraph.png)
-
-Der Verflechtungsgraph visualisiert all die natürlichen und juristischen Personen, die direkt oder indirekt an dem Hauptunternehmenskapital beteiligt sind.
-Sie können den Verflechtungsgraph auch zur Visualisierung der Ermittlung der wirtschaftlich Berechtigten nutzen.
-Darüber hinaus können Sie den Verflechtungsgraph als PDF speichern.
-Bitte beachten Sie, dass wir keine Stimmrechtsanteile miteinbeziehen.
+Einen Guide zum Nutzen des KYCnow-Moduls "Transparenzregister" finden Sie [hier](transparenzregister)
 
 ---
 

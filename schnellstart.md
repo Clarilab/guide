@@ -8,21 +8,21 @@ published: true
 
 ---
 
-**WIP: Dieses Dokument befindet sich gerade noch in Arbeit!**
+**Diese Seite befindet sich in stetiger Erweiterung!**
 
 ---
 
-KYCnow ermöglicht einen automatischen Abzug aller KYC-relevanten Daten und Dokumente, um diese dem Nutzer über eine Schnittstelle oder eine Web-Anwendung zugänglich zu machen. Diese Daten und Dokumente werden von KYCnow aufbereitet und ausgewertet, um dem Nutzer eine Empfehlung über das Geldwäsche-Risiko eines (potentiellen) Kunden zu liefern.
+KYCnow ermöglicht Ihnen einen automatischen Abzug aller KYC-relevanten Daten / Dokumente und macht Ihnen diese über eine Schnittstelle oder eine Web-Anwendung zugänglich. Diese Daten / Dokumente werden von KYCnow aufbereitet und ausgewertet, um eine Empfehlung über das Geldwäsche-Risiko Ihres (potentiellen) Kunden zu liefern.
 
-Die Daten und Dokumente erhält KYCnow über Schnittstellen zu Schufa, landesspezifischen Handelsregistern, dem
-Transparenzregister sowie Dun&Bradstreet für Unternehmen die international verzweigt sind. Diese Daten und Dokumente werden in KYCnow abgelegt und sind für den Nutzer jederzeit einsehbar. Um ein neues Unternehmen in den Prozess aufzunehmen, steht ein Onboarding bereit, welches sowohl vom Endkunden als auch vom Nutzer durchgeführt werden kann.
+Die Daten / Dokumente erhält KYCnow über Schnittstellen zu Schufa, landesspezifischen Handelsregistern, dem
+Transparenzregister sowie Dun&Bradstreet für Unternehmen die international verzweigt sind. Diese Daten / Dokumente werden in KYCnow abgelegt und sind für Sie jederzeit einsehbar. Um ein neues Unternehmen in den Prozess aufzunehmen, steht ein Onboarding bereit, welches sowohl vom Ihnen als auch Ihrem Endkunden  durchgeführt werden kann.
 
 ## Fall anlegen
 
 ![linkeleiste_fallanlegen](/assets/schnellstart/linkeleiste_fallanlegen.png)
 
 Um eine neue KYC-Akte zu eröffnen, müssen Sie zunächst einen Fall anlegen.
-Mit Eingabe des zu überprüfenden Unternhemn in die Suchleiste können Sie aus einer Trefferliste das gewünschte Unternehmen auswählen.
+Mit Eingabe des zu überprüfenden Unternehmen in die Suchleiste können Sie aus einer Trefferliste das gewünschte Unternehmen auswählen.
 
 ![fallanlegen_1:2](/assets/schnellstart/fallanlegen_1:2.png)
 
@@ -90,7 +90,7 @@ Durch Anklicken einer Akte gelangen Sie zur jeweiligen Akten-Übersicht.
 Nach der Auswahl eines spezifischen Falls, gelangen Sie zunächst zu seiner Aktenübersicht.
 In der Aktenübersicht werden alle relevanten Informationen zu dem Unternehmen, den natürlichen Personen, dem Name Screening sowie dem KYC-Score angezeigt.
 Über die einzelnen Reiter können Sie nähere Informationen aufrufen und / oder bearbeiten.
-Eigene Kommentare können Sie dem Fall beifügen, indem Sie oben rechts folgenden Icon anklicken:
+Eigene Kommentare können Sie dem Fall beifügen, indem Sie folgenden Icon im Bereich oben rechts anklicken:
 
 ![kommentaricon](/assets/schnellstart/kommentaricon.png)
 
@@ -100,7 +100,7 @@ Eigene Kommentare können Sie dem Fall beifügen, indem Sie oben rechts folgende
 
 ![neuefaelle_stammdaten](/assets/schnellstart/neuefaelle_stammdaten.png)
 In den Stammdaten befinden sich generelle Informationen zu dem zu überprüfenden Unternehmen, seinen Kommunikationsdaten sowie seiner Tätigkeit.
-Sollte eine Aktualisierung bzw. Erweiterung der Daten erforderlich sein können sie unten eine Recherche anfordern.
+Sollte eine Aktualisierung bzw. Erweiterung der Daten erforderlich sein können Sie unten eine Recherche anfordern.
 
 ---
 
@@ -108,7 +108,7 @@ Sollte eine Aktualisierung bzw. Erweiterung der Daten erforderlich sein können 
 
 ![neuefaelle_personen](assets/schnellstart/neuefaelle_personen.png)
 
-Hier finden Sie alle notwendigen Informationen zu den gesetzlichen Vertretern sowie den wirtschaftlich Berechtigten
+Hier finden Sie alle notwendigen Informationen zu den gesetzlichen Vertretern sowie den wirtschaftlich Berechtigten.
 Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisierung / Erweiterung der Daten beantragen.
 
 ---
@@ -123,9 +123,9 @@ Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisi
   
   GwG-Vollauskunft, -Kompaktauskunft, -Kurzauskunft
 
-- Basierend auf Handelsregister:A
+- Basierend auf Handelsregister:
 
-  ktueller Abdruck, Chronologischer Abdruck, Gesellschafterliste sowie Gesellschaftervertrag
+  Aktueller Abdruck, chronologischer Abdruck, Gesellschafterliste sowie Gesellschaftervertrag
 
 - Transparenzregister-Auszug
 
@@ -137,10 +137,11 @@ Darüber hinaus können Sie eigene Dokumente hochladen.
 
 ![neuefaelle_verflechtungsgraph](assets/schnellstart/neuefaelle_verflechtungsgraph.png)
 
-Der Verflechtungsgraph visualisiert all die natürlichen und juristischen Personen, die direkt oder indirekt an dem Hauptunternehmenskapital beteiligt sind.
+Der Verflechtungsgraph visualisiert all die natürlichen und juristischen Personen, welche direkt oder indirekt an dem angefragten Unternehmen beteiligt sind.
 Sie können den Verflechtungsgraph auch zur Visualisierung der Ermittlung der wirtschaftlich Berechtigten nutzen.
 Darüber hinaus können Sie den Verflechtungsgraph als PDF speichern.
-Bitte beachten Sie, dass wir keine Stimmrechtsanteile miteinbeziehen.
+Bitte beachten Sie, dass keine Stimmrechtsanteile einbezogen werden.
+
 ---
 
 ### Namescreening
@@ -155,7 +156,7 @@ Das Namescreening durchsucht PEP-, Sanktions- (Terror und Embargo), Watch- und B
 - Den Namen der wirtschaftlich Berechtigten des Unternehmens
 - Den gesetzlichen Vertretern
 
-Werden keine Treffer gefunden, impliziert dies, dass es den Suchbegriff in keiner der verfügbaren Listen gibt, oder angezeigte Informationen als nicht relevant eingestuft wurden.
+Werden keine Treffer gefunden, impliziert dies, dass es den Suchbegriff in keiner der verfügbaren Listen gibt oder angezeigte Informationen als nicht relevant eingestuft wurden.
 In den Ergebnissen werden auch ähnliche Namen dargestellt, um Tippfehlerrisiken zu minimieren.
 Sie können die Relevanz aller Informationen überprüfen und damit auch ob die Informationen dem Fall beigefügt werden sollen
 
@@ -166,7 +167,7 @@ Sie können die Relevanz aller Informationen überprüfen und damit auch ob die 
 ![neuefaelle_mediascreening1:2](assets/schnellstart/neuefaelle_mediascreening1:2.png)
 ![neuefaelle_mediascreening2:2](assets/schnellstart/neuefaelle_mediascreening2:2.png)
 
-Das Mediascreening sucht nach (Nachrichten-)Artikel, Social-Media-Profilen, usw. über das Unternehmen und die natürlichen Personen, die im Rahmen des KYC Prozesses untersucht werden sollen.
+Das Mediascreening sucht nach (Nachrichten-)Artikel, Social-Media-Profilen usw. über das Unternehmen und die natürlichen Personen, welche im Rahmen des KYC Prozesses untersucht werden sollen.
 
 ---
 
@@ -210,7 +211,7 @@ Wenn Sie einen „Fall abschließen“, wird dieser in Ihren Bestand verschoben.
 Ist der Fall einmal im Bestand, können keine weiteren Änderungen vorgenommen werden!
 
 Im Register „Bestand“ können Sie sämtliche abgeschlossenen Fälle einsehen.
-Auch hier können Sie, wie schon im Reiter „Neue Fälle“, durch klicken auf das jeweilige Unternehmen die gespeicherten Informationen einsehen.
+Auch hier können Sie, wie schon im Reiter „Neue Fälle“, durch klicken auf die jeweiligen Unternehmensnamen die dazugehörige Akte einsehen.
 
 ---
 

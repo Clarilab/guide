@@ -63,6 +63,9 @@ Drücken Sie bitte hierfür auf „Manuelle Recherche anfordern“. Dieser Butto
 ![rechercheanfordern](assets/schnellstart/fallanlegen_rechercheanfordern.png)
 
 Zur manuellen Recherche, müssen alle nun abgefragten Felder ausgefült werden. Wenn möglich geben Sie einen Existenzbeleg, z.B. einen Gewerbeschein in Form einer PDF hinzu.
+
+![recherchemaske](assets/schnellstart/fallanlegen_rechercheformular.png)
+
 Die manuelle Bearbeitung einer Anfrage dauert wenige Werktage. Sie wird üblicherweise deutlich schneller beendet, wenn Sie eien Existenznachweis in Form einer PDF hinzugefügen.
 Haben Sie eine manuelle Recherche angefordert, ist das Unternehmen für die Dauer der Recherche im Reiter „Recherche“ aufgelistet.
 

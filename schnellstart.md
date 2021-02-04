@@ -66,7 +66,7 @@ Zur manuellen Recherche, müssen alle nun abgefragten Felder ausgefült werden. 
 
 ![recherchemaske](assets/schnellstart/fallanlegen_rechercheformular.png)
 
-Die manuelle Bearbeitung einer Anfrage dauert wenige Werktage. Sie wird üblicherweise deutlich schneller beendet, wenn Sie eien Existenznachweis in Form einer PDF hinzugefügen.
+Die manuelle Bearbeitung einer Anfrage dauert wenige Werktage. Sie wird üblicherweise deutlich schneller beendet, wenn Sie einen Existenznachweis in Form einer PDF hinzugefügen.
 Haben Sie eine manuelle Recherche angefordert, ist das Unternehmen für die Dauer der Recherche im Reiter „Recherche“ aufgelistet.
 
 ![recherche](assets/schnellstart/recherche.png)

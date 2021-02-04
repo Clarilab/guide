@@ -28,10 +28,11 @@ Mit Eingabe des zu überprüfenden Unternehmen in die Suchleiste können Sie aus
 
 Haben Sie das gesuchte Unternehmen gefunden, können Sie durch „Hinzufügen“ den Fall neu anlegen und das Unternehmen fortan im Bereich „Neue Fälle“ aufrufen.
 Pro Unternehmen kann eine einzige Akte angelegt werden. Ist ein Unternehmen bereits in „Neue Fälle“ oder „Bestand“ vorhanden, kann dieses nicht neu hinzugefügt werden.
+Finden Sie das Unternehmen nicht direkt, nutzen Sie bitte die folgend beschriebene erweiterte Suche, um die Suchergebnisse mit mehr Details zu konkretisieren.
 
 ---
 
-Sollten Sie ergänzende Angaben zum gesuchten Unternehmen haben, können Sie diese in der erweiterten Suche angeben, um so schneller das gewünschte Unternehmen zu ermitteln.
+Sollten Sie ergänzende Angaben zum gesuchten Unternehmen haben, können Sie diese in der erweiterten Suche angeben, um so schneller das gewünschte Unternehmen zu ermitteln. Klicken Sie für das erweitern der Suche rechts neben der Länderauswahl auf "Erweiterte Suche". Die Suche wird sich nun ausklappen.
 
 Mögliche Angaben sind dabei:
 
@@ -41,12 +42,14 @@ Mögliche Angaben sind dabei:
 - Straße / Postleitzahl / Ort
 - Handelsregisternummer
 - LEI-Nummer
-- Schufa-ID
+- Anbieter ID (Schufa ID oder DUNS Number für Gesellschaften mit Sitz im Ausland)
 - Umsatzsteuer-ID
 
 Auch hier können Sie anschließend durch „Hinzufügen“ eine neue Akte anlegen und das Unternehmen fortan im Bereich „Neue Fälle“ abrufen.
 
 ![fallanlegen_2:2](assets/schnellstart/fallanlegen_2:2.png)
+
+Bitte lesen Sie den folgenden Abschnitt "Recherche", falls keines der angezeigten Suchergebnisse zu dem von Ihnen gesuchten Unternehmen passt.
 
 ---
 
@@ -55,12 +58,17 @@ Auch hier können Sie anschließend durch „Hinzufügen“ eine neue Akte anleg
 ![linkeleiste_recherche](assets/schnellstart/linkeleiste_recherche.png)
 
 Sollte das von Ihnen gesuchte Unternehmen nicht gefunden werden, haben Sie die Möglichkeit eine manuelle Recherche für dieses Unternehmen anzufordern. Hier entstehen keine zusätzlichen Kosten. Das Unternehmen wird auf Existenz geprüft und ist künftig in der Suche zu finden.
-Drücken Sie bitte hierfür auf „Manuelle Recherche anfordern“.
-Zur manuellen Recherche, müssen alle Felder der erweiterten Suche ausgefüllt werden. Wenn möglich geben Sie einen Existenzbeleg, z.B. einen Gewerbeschein, als PDF hinzu.
-Die manuelle Bearbeitung einer Anfrage dauert wenige Werktage.
+Drücken Sie bitte hierfür auf „Manuelle Recherche anfordern“. Dieser Button erscheint erst am unteren Ende des Bildschirms, sobald Sie mindestens eine erweiterte Suche ausgeführt haben.
+
+![rechercheanfordern](assets/schnellstart/fallanlegen_rechercheanfordern.png)
+
+Zur manuellen Recherche, müssen alle nun abgefragten Felder ausgefült werden. Wenn möglich geben Sie einen Existenzbeleg, z.B. einen Gewerbeschein in Form einer PDF hinzu.
+Die manuelle Bearbeitung einer Anfrage dauert wenige Werktage. Sie wird üblicherweise deutlich schneller beendet, wenn Sie eien Existenznachweis in Form einer PDF hinzugefügen.
 Haben Sie eine manuelle Recherche angefordert, ist das Unternehmen für die Dauer der Recherche im Reiter „Recherche“ aufgelistet.
 
 ![recherche](assets/schnellstart/recherche.png)
+
+Sie erhalten eine Benachrichtigung per Mail, sobald die manuelle Recherche beendet ist. Daraufhin ist das Unternehmen im Reiter "Neue Fälle" zu finden.
 
 ---
 

@@ -6,12 +6,12 @@ title: transparenzregister
 # Handbuch zum KYCnow-Modul „Transparenzregister“
 
 Mit diesem Modul wollen wir Ihnen den Umgang mit dem Transparenzregister erleichtern und Sie darin unterstützen Compliance-Prozesse effizienter und effektiver zu gestalten. Im Folgenden beschreiben wir, wie Sie das Modul erfolgreich einrichten und beantworten Fragen zum Umgang mit dem Modul und wie dieses technisch funktioniert.  
-Sollten Ihre Fragen mithilfe dieses Handbuchs nicht beantwortet werden, senden Sie uns einfach eine Mail an ([fragestunde@kycnow.de](mailto:fragestunde@kycnow.de)). Eine Frage, die uns oft erreicht, wollen wir vorweg beantworten:
+Sollten Ihre Fragen mithilfe dieses Handbuchs nicht beantwortet werden, senden Sie uns einfach eine Mail an ([support@kycnow.de](mailto:support@kycnow.de)). Eine Frage, die uns oft erreicht, wollen wir vorweg beantworten:
 
 ## Welche Leistungen bieten Sie an?
 
 Unsere Leistungen im Zusammenhang mit dem Transparenzregister lassen sich in drei Kategorien unterteilen: 
- 
+
 - Abruf von Daten
 - Abgleich der Daten
 - Unstimmigkeitsmeldungen

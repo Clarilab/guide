@@ -6,7 +6,7 @@ title: transparenzregister
 
 # Manual for the KYCnow module "Transparency Register"
 
-With this module, we strive to make it easier for you to deal with the Transparency Register and to support you in making compliance processes more efficient and effective. In the following, we describe how to set up the module successfully and answer questions on how to use the module as well as how it works technically. If your questions are not answered using this guide, just send us an email ([fragestunde@kycnow.de](mailto:fragestunde@kycnow.de)). We would like to answer a question that often reaches us in advance:
+With this module, we strive to make it easier for you to deal with the Transparency Register and to support you in making compliance processes more efficient and effective. In the following, we describe how to set up the module successfully and answer questions on how to use the module as well as how it works technically. If your questions are not answered using this guide, just send us an email ([support@kycnow.de](mailto:support@kycnow.de)). We would like to answer a question that often reaches us in advance:
 
 ## What services do you offer?
 
@@ -41,7 +41,7 @@ You will receive a monthly invoice from us. Separately you will receive invoices
 
 We offer you the possibility to collect all queries of the day and place them in a "shopping kart order". As a result, instead of multiple invoices per day, you only receive one invoice per day from the Federal Gazette.
 Technically, the shopping cart order means that in the evening we send all enquiries of the day bundled to the Federal Gazette. In the case of individual orders, the query is immediately sent to the Federal Gazette.
-You can choose one of two options at the beginning. If you wish to switch to the other option during the course of use, you can contact our customer service ([fragestunde@kycnow.de](mailto:fragestunde@kycnow.de)) at any time.
+You can choose one of two options at the beginning. If you wish to switch to the other option during the course of use, you can contact our customer service ([support@kycnow.de](mailto:support@kycnow.de)) at any time.
 
 A monthly invoicing is unfortunately not possible.
 

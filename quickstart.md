@@ -76,15 +76,9 @@ As soon as the manual research is completed you will receive a notice via Mail a
 ![leftbar_new](assets/quickstart/leftbar_new.png)
 
 Under „New Records“ you will find all unfinished KYC-Processes. Apart from the name of the respective company you can also find the date on which the process was begun as well as its automatically calculated KYC Risk Rating.
+(Insight into „All Cases“ is only possible as admin, if not every user in your company is authorized to do so.)
 
-With the help of the panels on top you can get a sorting of the ongoing processes.
-
-You can sort between:
-
-XXX
-(Insight into „All Cases“ only possible as admin, if not every user in your company is authorized to do so.)
-
-You can also look for a specific case using the search bar.
+You can also look for a specific case using the search bar or by applying the filter provided under "Status".
 
 By clicking on a record, you can find its respective overview.
 
@@ -95,7 +89,9 @@ By clicking on a record, you can find its respective overview.
 After selecting a specific record, you will first find an overview.
 In this overview you will find all relevant information on the company, natural persons, Name Screening as well as the KYC-Score.
 Using the tabs on the top, you can gather more specific information or update it.
-By clicking the following icon on the top right, you can add your own comments to the record.
+By clicking the following icon on the top, you can add your own comments to the record.
+
+![commenticon](/assets/quickstart/commenticon.png)
 
 ---
 
@@ -108,12 +104,18 @@ Should an update or an extension of the data be necessary, you can do so using e
 
 ### Persons
 
+![newrecords_persons](assets/quickstart/newrecords_persons.png)
+
 Here you will find all necessary information on the legal representatives as well as the beneficial owners.
 Here, too, you can request an update / extension of the data by clicking on request search below or edit the data yourself.
 
 ---
 
 ### Documents
+
+![newrecords_documents1_2](assets/quickstart/newrecords_documents1_2.png)
+
+![newrecords_documents2_2](assets/quickstart/newrecords_documents2_2.png)
 
 Under the tab „Documents“ you can order and download the following types of documents:
 
@@ -134,11 +136,14 @@ You can also upload Trade register extracts and other documents you already have
 The linkage graph visualises all natural and legal persons that are direct or indirect beneficiaries of the main corporates capital.
 You can also use the linkage graph as a Visualisation of the determination of Ultimate Beneficial Owners 
 It is possible to save the linkage graph as a PDF-file.
-Please note that voting rights are not included
+Please note that voting rights are not included.
 
 ---
 
 ### Name Screening
+
+![newrecords_namescreening1_2](assets/quickstart/newrecords_namescreening1_2.png)
+![newrecords_namescreening2_2](assets/quickstart/newrecords_namescreening2_2.png)
 
 In the tab "Name Screening", you can see which terms were checked in the course of the namescreening and which hits were found.
 The namescreening searches PEP-, sanction- (terror and embargo), watch- and blacklists for:
@@ -172,6 +177,8 @@ Here you can:
 ---
 
 ### KYC Score
+
+![newrecords_kycscore](assets/quickstart/newrecords_dkycscore.png)
 
 Under KCY Score, you will find the individual factors considered. The factors considered are:
 
@@ -208,7 +215,7 @@ As an administrator you can:
 
 As an administrator, you can switch between all KYCnow records as well as your own.
 
-Other users can only see those KYCnow records they created themselves.
+Other users, if not given the permission, can only see those KYCnow records they created themselves.
 
 ---
 

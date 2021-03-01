@@ -45,7 +45,7 @@ Wir bieten Ihnen die Möglichkeit, alle Abfragen des Tages zu sammeln und diese 
 Technisch bedeutet die Warenkorbbestellung, dass wir abends alle Anfragen des Tages gebündelt an den Bundesanzeiger verschicken. 
 Bei Einzelbestellungen wird die Abfrage sofort an den Bundesanzeiger geschickt.
 
-Sie können sich zu Beginn für eine der zwei Möglichkeiten entscheiden. Sollten Sie im Laufe der Nutzung auf die jeweils andere Möglichkeit umsteigen wollen, können Sie sich jederzeit an unseren Kundenservice ([fragestunde@kycnow.de](mailto:fragestunde@kycnow.de)) wenden. 
+Sie können sich zu Beginn für eine der zwei Möglichkeiten entscheiden. Sollten Sie im Laufe der Nutzung auf die jeweils andere Möglichkeit umsteigen wollen, können Sie sich jederzeit an unseren Kundenservice ([support@kycnow.de](mailto:support@kycnow.de)) wenden. 
 Eine monatliche Rechnungsstellung ist leider nicht möglich.
 
 ## Abruf von Daten

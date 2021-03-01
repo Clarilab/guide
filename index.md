@@ -8,7 +8,8 @@ title: index
 Herzlich willkommen zum KYCnow-guide.  
 Wir helfen Ihnen beim Einsatz der KYCnow-Plattform.
 
-    ## Inhaltsverzeichnis
+## Inhaltsverzeichnis
+
 - [Schnellstart](schnellstart)
 - [Quickstart](quickstart)
 - [Transparenzregister](transparenzregister)

@@ -9,5 +9,6 @@ Herzlich willkommen zum KYCnow-guide.
 Wir helfen Ihnen beim Einsatz der KYCnow-Plattform.
 
     ## Inhaltsverzeichnis
-- [Schnellstart](schnellstart)  |  [Quickstart](quickstart)
+- [Schnellstart](schnellstart)
+- [Quickstart](quickstart)
 - [Transparenzregister](transparenzregister)

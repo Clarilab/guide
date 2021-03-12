@@ -40,12 +40,12 @@ Sie erhalten von uns monatlich eine Rechnung
 Separat erhalten Sie vom Bundesanzeiger, entsprechend Ihrer Abrufe, Rechnungen. Die jeweilige Gebühr, die vom Bundesanzeiger erhoben wird, können Sie der Transparenzregistergebührenverordnung (TrGebV) entnehmen oder [hier](https://www.transparenzregister.de/treg/de/hilfe?0) einsehen.
 
 ### Ist eine Sammelrechnung möglich?
-Wir bieten Ihnen die Möglichkeit, alle Abfragen des Tages zu sammeln und diese in einer „Warenkorbbestellung“ abzugeben. Dies hat zur Folge, dass Sie anstelle mehrerer Rechnungen am Tag nur eine Rechnung am Tag vom Bundesanzeiger bekommen. 
+Wir bieten Ihnen zukünftig die Möglichkeit, alle Abfragen des Tages zu sammeln und diese in einer „Warenkorbbestellung“ abzugeben. Dies hat zur Folge, dass Sie anstelle mehrerer Rechnungen am Tag nur eine Rechnung am Tag vom Bundesanzeiger bekommen. 
 
 Technisch bedeutet die Warenkorbbestellung, dass wir abends alle Anfragen des Tages gebündelt an den Bundesanzeiger verschicken. 
 Bei Einzelbestellungen wird die Abfrage sofort an den Bundesanzeiger geschickt.
 
-Sie können sich zu Beginn für eine der zwei Möglichkeiten entscheiden. Sollten Sie im Laufe der Nutzung auf die jeweils andere Möglichkeit umsteigen wollen, können Sie sich jederzeit an unseren Kundenservice ([support@kycnow.de](mailto:support@kycnow.de)) wenden. 
+Sie können sich zukünftig zu Beginn für eine der zwei Möglichkeiten entscheiden. Sollten Sie im Laufe der Nutzung auf die jeweils andere Möglichkeit umsteigen wollen, können Sie sich jederzeit an unseren Kundenservice ([support@kycnow.de](mailto:support@kycnow.de)) wenden. 
 Eine monatliche Rechnungsstellung ist leider nicht möglich.
 
 ## Abruf von Daten
@@ -59,8 +59,11 @@ Dies führt zu einer [Unstimmigkeitsmeldung](#unstimmigkeitsmeldungen).
 
 Um den Bestellvorgang abzuschließen, müssen Sie den Anfragegrund angeben. Dieses Feld ist zwingend auszufüllen.
 
-
 ![anfragegrund](/assets/transparenzregister/anfragegrund.png)
+
+Nutzen Sie einen Transparenzregister-Account, der nur das Auswählen einer Checkbox als Bestätigung des berechtigten Interesses im Transparenz-Register bedarf, müssen Sie an dieser Stelle lediglich ein Leerzeichen machen, um die Bestellung auszulösen.
+
+Kontaktieren Sie support@kycnow.de, falls die Darlegung Ihres Anfragegrunds im Transparenzregister von einem Freitextfeld oder einer **einzelnen** Checkbox abweicht.
 
 ### Beziehen Sie die Daten direkt vom Bundesanzeiger?
 
@@ -90,12 +93,15 @@ Die Struktur ist wie folgt:
 1. Vorname
 2. Nachname
 3. Geburtsdatum
-4. Wohnsitz
-5. Umfang der wirtschaftlichen Berechtigung
-6. Typ der wirtschaftlichen Berechtigung
+4. Wohnsitzland
+5. Staatsangehörigkeit
+6. Wohnort
+7. Umfang des wirtschaftlichen Interesses
+8. Art des wirtschaftliches Interesses
+9. Typ der wirtschaftlichen Berechtigung
 
 ### Erhalten wir die Daten auch als PDF?
-Ja, Sie können sämtliche Daten auch als PDF-Datei exportieren.
+Ja, Sie erhalten natürlich auch den durch uns ausgelesenen Transparenzregisterauszug.
 
 ### Was passiert, wenn die Transparenzregister-Auskunft leer ist?
 Eine leere Transparenzregister-Auskunft ist nicht unüblich. Sie wird auch als Negativattest bezeichnet und bedeutet, dass dem Transparenzregister keine Angaben zu den wirtschaftlich Berechtigten gemacht wurden.
@@ -107,15 +113,21 @@ Grundsätzlich empfehlen wir folgende Vorgehensweise:
 2. Sind in den anderen Registern keine Angaben gemacht worden, ist eine Unstimmigkeitsmeldung abzugeben.
 
 ## Abgleich der Daten
-Nachdem die Abfrage durch den Bundesanzeiger bearbeitet wurde, können Sie die Transparenzregisterauskunft unter dem Reiter „Transparenzregister“ einsehen.  
-Dort zeigen wir Ihnen alle ermittelten wirtschaftlich Berechtigten an und stellen die Daten aus dem Transparenzregister den von Ihnen ermittelten Daten (KYCnow-Akte) gegenüber und überprüfen auf Unstimmigkeiten.
-Sie können die Daten der KYCnow-Akte in der rechten Spalte händisch eintragen und ändern.
+Nachdem die Abfrage durch den Bundesanzeiger bestätigt und der Transparenzregisterauszug durch KYCnow beschafft wurde, werden die ausgelesenen Daten im Reiter Transparenzregister tabellarisch in zwei Spalten dargestellt.
+
+In der linken Spalte sind alle wirtschaftlich Berechtigten aus dem Transparenzregister sowie der Schufa GWG-Auskunft (und damit u.a. dem Handelsregister) aufgelistet. Die rechte Spalte listet alle wirtschaftlich Berechtigten aus dem KYCnow Reiter "Personen" auf. Das Tool versucht sogenannte Matches zu finden, indem es prüft, ob Name und Geburtstdatum von wirtschaftlich Berechtigten aus den Registern mit jenen aus KYCnow übereinstimmen. Daraus resultierend sind folgende potenzielle Unstimmigkeiten visuell sehr schnell erkennbar:
+
+1. Ein wirtschaftlich Berechtigter ist lediglich in den Registern, aber nicht in den eigenen Daten vorhanden: Diese Person würde nur in der linken Spalte auffindbar sein.
+2. Ein wirtschaftlich Berechtigter ist zwar in den eigenen Daten, aber nicht in den Registern zu finden: In diesem Fall würde die Person lediglich in der rechten Spalte aufgelistet sein.
+3. Ein wirtschaftlich Berechtiger ist sowohl in den eigenen Daten, als auch den Registern vorhanden, aber die dazugehörigen Daten sind nicht identisch. Dies wäre beispielsweise der Fall, falls man Vergleichsdaten bei einem wirtschaftlich Berechtigten aus der Schufa GWG-Auskunft im Reiter Personen ändert. Dann würde eine Abweichung zwischen den originären Daten und den einem vorliegnden angezeigt werden.
+
+Im Folgenden weitere Beispielszenarien.
 
 Beispiel 1, Keine Unstimmigkeiten festgestellt:
 ![beispiel1](/assets/transparenzregister/beispiel1.png)
 
 Wenn wir Unstimmigkeiten bei einer wirtschaftlich berechtigten Person feststellen, markieren wir die Felder rot. 
-Möchten Sie einen wirtschaftlich Berechtigten ihrer Unstimmigkeitsmeldung beifügen, können Sie dies unten links auswählen.
+Möchten Sie einen wirtschaftlich Berechtigten ihrer Unstimmigkeitsmeldung beifügen, müssen Sie dies unten links auswählen.
 
 Beispiel 2, Unstimmigkeiten festgestellt
 ![beispiel2](/assets/transparenzregister/beispiel2.png)
@@ -128,32 +140,52 @@ Sie können unter dem Reiter „Transparenzregister“ außerdem auch:
 ![unstimmigkeit](/assets/transparenzregister/unstimmigkeit.png)
 
 ### Wie wird die Mitteilungsfiktion abgebildet?
-Macht das in Frage stehende Unternehmen von der Meldefiktion Gebrauch, äußert sich das in einem leeren Transparenzregisterauszug (Negativattest). Der wirtschaftlich Berechtigte muss in diesem Fall aus dem Handelsregister oder einem der anderen Register nach §20 II 1 GwG zu entnehmen sein.
+Macht das betrachtete Unternehmen von der Meldefiktion Gebrauch, äußert sich das in einem leeren Transparenzregisterauszug (Negativattest). Der wirtschaftlich Berechtigte muss in diesem Fall aus dem Handelsregister oder einem der anderen Register nach §20 II 1 GwG zu entnehmen sein.
 
-Aus technischen Gründen können wir eine Mitteilungsfiktion nur dann abbilden, wenn Sie das Modul GWG mitgebucht haben, da dieses den Abruf der notwendigen Daten aus dem Handelsregister beinhaltet.
-Haben Sie das Modul GWG mitgebucht, teilen wir Ihnen sowohl die Mitteilungsfiktion als auch die entsprechende Quelle mit.
+Diese Information kann mithilfe der GWG-Auskunft bezogen werden, denn die GWG-Auskunft greift bei der Berechnung von wirtschaftlich Berechtigten auf die Daten aus dem Handelsregister zurück.
+Haben Sie die GWG-Auskunft im Reiter "Personen" bestellt, teilen wir Ihnen sowohl die Mitteilungsfiktion als auch die entsprechende Quelle mit.
 ![fiktion](/assets/transparenzregister/fiktion.png)
 
 Es kann vorkommen, dass Ihnen eine Person doppelt angezeigt wird. Dies passiert, wenn ein Eintrag sowohl in das Transparenzregister als auch in eines der anderen möglichen Register erfolgt ist.
 
 ## Unstimmigkeitsmeldungen
 
-### Wie stellen Sie eine Unstimmigkeit fest?
+### Wie stellen Sie eine Unstimmigkeit fest und melde sie?
 Wir unterscheiden §23a I 4 GwG folgend zwischen drei verschiedenen Arten von Unstimmigkeiten:
-A)	Die Rechtseinheit ist im Transparenzregister nicht eingetragen
-B)	Es wurden abweichende / keine wirtschaftlich Berechtigte ermittelt
-C)	Einzelne Angaben zu einem wirtschaftlich Berechtigten weichen ab
-Wird eine Unstimmigkeit ermittelt, können Sie diese über unsere Anwendung direkt an das Transparenzregister melden. 
+**A) Die Rechtseinheit ist im Transparenzregister nicht aufzufinden.**
+Diese Meldung kann direkt bei der Dokumentenbestellung initiiert werden:
 
-Zur Ermittlung von Unstimmigkeiten, gleichen wir die Daten aus dem Transparenzregister mit denen aus dem Handelsregister, sowie mit den von Ihnen ermittelten Daten ab. Eine Modellierung der genauen Vorgehensweise können sie dem [Anhang](#anhang) entnehmen.
+![unstimmigkeitspruefung_notfound](/assets/transparenzregister/transreg_dialog_notfound.png)
+
+Im Folgenden ist der erscheinende Dialog auszufüllen.
+
+**B) Es konnten unter Einschluss der Registerlage keine wirtschaftlich Berechtigten ermittelt werden und das Transparenzregister lieferte ein Negativattest.**
+
+Die Möglichkeit dieser Unstimmigkeitsmeldung wird im Reiter "Transparenzregister" im Falle eines Negativattests sowie keinen UBOs durch eine GWG-Auskunft zur Verfügung gestellt:
+
+![unstimmigkeitspruefung_noubos](/assets/transparenzregister/transreg_inconsistency_noubos.png)
+
+**C) Wirtschaftlich Berechtigte konnte ermittelt werden, aber diese oder einzelne Angaben weichen von den Registern ab. Hier kann es wieder zu den drei Szenarien kommen, die im Abschnitt "Abgleich der Daten" erläutert wurden.**
+
+1. Ein wirtschaftlich Berechtigter ist lediglich in den Registern, aber nicht in den eigenen Daten vorhanden: 
+Der wirtschaftlich Berechtigte ist nur auf der linken Seite zu finden. Sie müssen nun auf der rechten Seite, alle Informationen eingeben und in die untere Checkbox bestätigen. Nun erscheint der wirtschaftlich Berechtigte im Dialog bei dem Auslösen der Meldung:
+![ubonotinkycnow1](assets/transparenzregister/ubonotinkycnow1.png)
+![ubonotinkycnow2](assets/transparenzregister/ubonotinkycnow2.png)
+![ubonotinkycnow3](assets/transparenzregister/ubonotinkycnow3.png)
+2. Ein wirtschaftlich Berechtigter ist zwar in den eigenen Daten, aber nicht in den Registern zu finden:
+Das Vorgehen ist identisch zu 1. bis auf den Fakt, dass der wirtschaftlich Berechtigte rechtsseitig vorzufinden ist. Wieder muss die Checkbox zum Hinzufügen selektiert werden. Weitere wirtschaftlich Berechtigte können auch mit Button "Wirtschaftlich Berechtigte Hinzufügen" hinzugefügt werden, um sie der Meldung anzuhängen (wenn diese noch nicht in der Akte vorhanden sind).
+![ubonotinregister](assets/transparenzregister/ubonotinregister.png)
+3. Ein wirtschaftlich Berechtiger ist sowohl in den eigenen Daten, als auch den Registern vorhanden, aber die dazugehörigen Daten sind nicht identisch:
+Das Vorgehen ist identisch zu 1. und 2. bis auf den Fakt, dass der wirtschaftlich Berechtigte beiseitig vorzufinden ist. Wieder muss die Checkbox zum Hinzufügen selektiert werden.
+![ubodiffers](assets/transparenzregister/ubodiffer.png)
+
+Es ist zu unterstreichen, dass immer die wirtschaftlich Berechtigten der rechten Spalte der Meldung hinzugefügt wird. Eine ergänzende Modellierung der genauen Vorgehensweise können sie dem [Anhang](#anhang) entnehmen.
 
 Die von uns ermittelte Unstimmigkeitsmeldung ist als Empfehlung zu verstehen. 
 
+
 ### Woher erhalte ich die Rückmeldung zu den Unstimmigkeitsmeldungen?
-Unstimmigkeitsmeldungen werden vom Bundesanzeiger bearbeitet. Von diesen bekommen Sie auch Rückmeldung zu Unstimmigkeitsmeldungen, die Sie gesendet haben.
-Sie können die Rückmeldung jederzeit über unsere Oberfläche abrufen und/oder als PDF-Datei exportieren.  
-Sie können die Rückmeldung außerdem auch über ihren Account beim Bundesanzeiger abrufen.  
-Hat der Bundesanzeiger die Meldung bearbeitet, bekommen Sie dies von uns sofort mitgeteilt. Die Verzögerung, die zwischen der Mitteilung durch den Bundesanzeiger und der Weiterleitung durch uns entsteht, beträgt nur wenige Minuten.
+Unstimmigkeitsmeldungen werden vom Bundesanzeiger bearbeitet. Von diesen bekommen Sie auch Rückmeldung zu Unstimmigkeitsmeldungen, die Sie gesendet haben (üblicherweise per Mail an die Adresse des Transparenzregister-Accounts).
 
 ## Anhang
 ### Modellierung unserer Unstimmigkeitsprüfung

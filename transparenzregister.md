@@ -23,10 +23,12 @@ Um unser Modul erfolgreich nutzen zu können, müssen Sie zuvor folgende Schritt
 1. Account beim Bundesanzeiger anlegen.
 2. Die Login-Daten für den Bundesanzeiger in unserer Anwendung unter „Einstellungen“ hinterlegen.
 ![Einstellungen](/assets/transparenzregister/einstellungen.png)
+Abbildung 1
 
 1. Die Zahlungsart, die Sie beim Transparenzregister hinterlegt haben, im Rahmen des Onboardings bei uns hinterlegen. Mit dieser müssen Sie außerdem mindestens 1x erfolgreich beim Transparenzregister bestellt haben.
-    * Zahlen Sie per Lastschrift, bitten wir Sie anzukreuzen, die Kontodaten vorzubelegen.
+    * Falls Sie per Lastschrift zahlen, bitten wir Sie anzukreuzen, die Kontodaten vorzubelegen.
     ![kontodaten](/assets/transparenzregister/kontodaten.png)
+    Abbildung 2
 2. Stellen Sie bitte sicher, dass vor jeder Bestellung mit Hilfe von KYCnow ihr Dokumentenkorb im Transparenzregister leer ist.
 
 ### Brauche ich einen eigenen Account beim Bundesanzeiger?
@@ -56,10 +58,12 @@ Danach erscheint ein Fenster, in dem Sie das Unternehmen, für das Sie den Auszu
 Alternativ können Sie auch auswählen, das Unternehmen nicht gefunden zu haben.
 Dies führt zu einer [Unstimmigkeitsmeldung](#unstimmigkeitsmeldungen).
 ![companywaehlen](/assets/transparenzregister/companywaehlen.png)
+Abbildung 3
 
 Um den Bestellvorgang abzuschließen, müssen Sie den Anfragegrund angeben. Dieses Feld ist zwingend auszufüllen.
 
 ![anfragegrund](/assets/transparenzregister/anfragegrund.png)
+Abbildung 4
 
 Nutzen Sie einen Transparenzregister-Account, der nur das Auswählen einer Checkbox als Bestätigung des berechtigten Interesses im Transparenz-Register bedarf, müssen Sie an dieser Stelle lediglich ein Leerzeichen machen, um die Bestellung auszulösen.
 
@@ -125,12 +129,15 @@ Im Folgenden weitere Beispielszenarien.
 
 Beispiel 1, Keine Unstimmigkeiten festgestellt:
 ![beispiel1](/assets/transparenzregister/beispiel1.png)
+Abbildung 5
 
 Wenn wir Unstimmigkeiten bei einer wirtschaftlich berechtigten Person feststellen, markieren wir die Felder rot. 
 Möchten Sie einen wirtschaftlich Berechtigten ihrer Unstimmigkeitsmeldung beifügen, müssen Sie dies unten links auswählen.
 
 Beispiel 2, Unstimmigkeiten festgestellt
 ![beispiel2](/assets/transparenzregister/beispiel2.png)
+Abbildung 6
+
 Sie können unter dem Reiter „Transparenzregister“ außerdem auch:
 
 1. Angeben, dass sich weitere wirtschaftlich Berechtigte aus anderen Registern ergeben.
@@ -138,6 +145,7 @@ Sie können unter dem Reiter „Transparenzregister“ außerdem auch:
 3. Eine Unstimmigkeitsmeldung auslösen. Wenn Sie eine Unstimmigkeitsmeldung auslösen, werden sämtliche Unstimmigkeiten, die Sie erkannt und ausgewählt haben automatisch an das Transparenzregister übermittelt
 4. Den Transparenzregisterauszug als PDF-Datei herunterladen.
 ![unstimmigkeit](/assets/transparenzregister/unstimmigkeit.png)
+Abbildung 7
 
 ### Wie wird die Mitteilungsfiktion abgebildet?
 Macht das betrachtete Unternehmen von der Meldefiktion Gebrauch, äußert sich das in einem leeren Transparenzregisterauszug (Negativattest). Der wirtschaftlich Berechtigte muss in diesem Fall aus dem Handelsregister oder einem der anderen Register nach §20 II 1 GwG zu entnehmen sein.
@@ -145,6 +153,7 @@ Macht das betrachtete Unternehmen von der Meldefiktion Gebrauch, äußert sich d
 Diese Information kann mithilfe der GWG-Auskunft bezogen werden, denn die GWG-Auskunft greift bei der Berechnung von wirtschaftlich Berechtigten auf die Daten aus dem Handelsregister zurück.
 Haben Sie die GWG-Auskunft im Reiter "Personen" bestellt, teilen wir Ihnen sowohl die Mitteilungsfiktion als auch die entsprechende Quelle mit.
 ![fiktion](/assets/transparenzregister/fiktion.png)
+Abbildung 8
 
 Es kann vorkommen, dass Ihnen eine Person doppelt angezeigt wird. Dies passiert, wenn ein Eintrag sowohl in das Transparenzregister als auch in eines der anderen möglichen Register erfolgt ist.
 
@@ -156,6 +165,7 @@ Wir unterscheiden §23a I 4 GwG folgend zwischen drei verschiedenen Arten von Un
 Diese Meldung kann direkt bei der Dokumentenbestellung initiiert werden:
 
 ![unstimmigkeitspruefung_notfound](/assets/transparenzregister/transreg_dialog_notfound.png)
+Abbildung 9
 
 Im Folgenden ist der erscheinende Dialog auszufüllen.
 
@@ -164,20 +174,30 @@ Im Folgenden ist der erscheinende Dialog auszufüllen.
 Die Möglichkeit dieser Unstimmigkeitsmeldung wird im Reiter "Transparenzregister" im Falle eines Negativattests sowie keinen UBOs durch eine GWG-Auskunft zur Verfügung gestellt:
 
 ![unstimmigkeitspruefung_noubos](/assets/transparenzregister/transreg_inconsistency_noubos.png)
+Abbildung 10
 
 **C) Wirtschaftlich Berechtigte konnte ermittelt werden, aber diese oder einzelne Angaben weichen von den Registern ab. Hier kann es wieder zu den drei Szenarien kommen, die im Abschnitt "Abgleich der Daten" erläutert wurden.**
 
 1. Ein wirtschaftlich Berechtigter ist lediglich in den Registern, aber nicht in den eigenen Daten vorhanden: 
 Der wirtschaftlich Berechtigte ist nur auf der linken Seite zu finden. Sie müssen nun auf der rechten Seite, alle Informationen eingeben und in die untere Checkbox bestätigen. Nun erscheint der wirtschaftlich Berechtigte im Dialog bei dem Auslösen der Meldung:
 ![ubonotinkycnow1](assets/transparenzregister/ubonotinkycnow1.png)
+Abbildung 11
+
 ![ubonotinkycnow2](assets/transparenzregister/ubonotinkycnow2.png)
+Abbildung 12
+
 ![ubonotinkycnow3](assets/transparenzregister/ubonotinkycnow3.png)
+Abbildung 13
+
 2. Ein wirtschaftlich Berechtigter ist zwar in den eigenen Daten, aber nicht in den Registern zu finden:
 Das Vorgehen ist identisch zu 1. bis auf den Fakt, dass der wirtschaftlich Berechtigte rechtsseitig vorzufinden ist. Wieder muss die Checkbox zum Hinzufügen selektiert werden. Weitere wirtschaftlich Berechtigte können auch mit Button "Wirtschaftlich Berechtigte Hinzufügen" hinzugefügt werden, um sie der Meldung anzuhängen (wenn diese noch nicht in der Akte vorhanden sind).
 ![ubonotinregister](assets/transparenzregister/ubonotinregister.png)
+Abbildung 14
+
 3. Ein wirtschaftlich Berechtiger ist sowohl in den eigenen Daten, als auch den Registern vorhanden, aber die dazugehörigen Daten sind nicht identisch:
 Das Vorgehen ist identisch zu 1. und 2. bis auf den Fakt, dass der wirtschaftlich Berechtigte beiseitig vorzufinden ist. Wieder muss die Checkbox zum Hinzufügen selektiert werden.
 ![ubodiffers](assets/transparenzregister/ubodiffer.png)
+Abbildung 15
 
 Es ist zu unterstreichen, dass immer die wirtschaftlich Berechtigten der rechten Spalte der Meldung hinzugefügt wird. Eine ergänzende Modellierung der genauen Vorgehensweise können sie dem [Anhang](#anhang) entnehmen.
 
@@ -185,22 +205,25 @@ Die von uns ermittelte Unstimmigkeitsmeldung ist als Empfehlung zu verstehen.
 
 
 ### Woher erhalte ich die Rückmeldung zu den Unstimmigkeitsmeldungen?
-Unstimmigkeitsmeldungen werden vom Bundesanzeiger bearbeitet. Von diesen bekommen Sie auch Rückmeldung zu Unstimmigkeitsmeldungen, die Sie gesendet haben (üblicherweise per Mail an die Adresse des Transparenzregister-Accounts).
+Unstimmigkeitsmeldungen werden vom Bundesanzeiger bearbeitet. Von diesem bekommen Sie auch Rückmeldung zu Unstimmigkeitsmeldungen, die Sie gesendet haben (üblicherweise per Mail an die Adresse des Transparenzregister-Accounts).
 
 ## Anhang
 ### Modellierung unserer Unstimmigkeitsprüfung
 Der nachfolgende Prozess geschieht zu großen Teilen automatisch. Damit Sie aber nachvollziehen können, welche Schritte diesem Prozess zugrunde liegen, haben wir den gesamten Prozess moduliert.
 ![unstimmigkeitspruefung](/assets/transparenzregister/unstimmigkeitspruefung.png)
+Abbildung 16
 
 In unserer Anwendung erfolgt die Suche nach der Rechtseinheit, für die ein Transparenzregisterauszug bestellt werden soll, in mehreren Teilschritten.
 
 Zu Beginn haben Sie das in Frage stehende Unternehmen bereits gesucht und Ihrem Bestand beigefügt.
 Eine genaue Beschreibung dieser Vorgehensweise können Sie unserem 
-Schritt-für-Schritt-Guide entnehmen.
+Schritt-für-Schritt Anleitung entnehmen.
 ![unternehmensuchen](/assets/transparenzregister/unternehmensuchen.png)
+Abbildung 17
 
-Zur Bestellung des Transparenzregisterauszugs (näheres dazu auf Seite 5) bieten wir Ihnen eine Liste möglicher Treffer an. Um Tippfehler etc. auszuschließen, kann die Liste auch ähnliche Treffer beinhalten.
+Zur Bestellung des Transparenzregisterauszugs bieten wir Ihnen eine Liste möglicher Treffer an. Um Tippfehler etc. auszuschließen, kann die Liste auch ähnliche Treffer beinhalten.
 ![liste](/assets/transparenzregister/liste.png)
+Abbildung 18
 
 ---
 **Fall A (vgl. Abbildung 9):**
@@ -210,16 +233,20 @@ Ist die Rechtseinheit beim Transparenzregister nicht zu finden, kann eine Unstim
 ---
 Hierzu werden Sie nach der entsprechenden Auswahl darum gebeten, die Rechtsform der transparenzpflichtigen Rechtseinheit anzugeben. Dies dient dem korrekten Ausfüllen der Unstimmigkeitsmeldung.
 ![rechtseinheit](/assets/transparenzregister/rechtseinheit.png)
+Abbildung 19
 
 Im Anschluss werden Ihnen nochmals alle Informationen des betroffenen Unternehmens aufgezeigt, mit der Möglichkeit, diese auch nochmal 
 zu ![bearbeiten](/assets/transparenzregister/bearbeiten.png)  
 ![uebersicht](/assets/transparenzregister/uebersicht.png)
+Abbildung 20
 
 Wenn Sie das Unternehmen hingegen gefunden haben, erhalten Sie nach ein paar Tagen den Transparenzregisterauszug.
-Je nach Inhalt des Dokuments können Sie die weitere Vorgehensweise auf Seite 14 (Szenario: Negativattest) oder auf Seite 15 (Szenario: Transparenzregisterauszug erhalten) nachvollziehen. 
+Im Folgenden können Sie, je nach Inhalt Ihres Dokuments, die weitere Vorgehensweise nachvollziehen.
 
 ### Szenario: Negativattest
 ![negativtest](/assets/transparenzregister/negativtest.png)
+Abbildumng 21
+
 Falls Sie vom Transparenzregister einen Negativattest erhalten haben, prüft unsere Anwendung im nächsten Schritt auf entsprechende Einträge im Handelsregister und, falls von Ihnen angegeben, auf von Ihnen ermittelte wirtschaftliche Berechtigte.
 
 ---
@@ -240,12 +267,14 @@ Sind die Angaben unvollständig, ist wiederum eine Unstimmigkeitsmeldung an das 
 
 Szenario: Transparenzregisterauszug erhalten
 ![transparenzregisterauszug](/assets/transparenzregister/transparenzregisterauszug.png)
+Abbildung 22
 
 Wenn Sie einen Transparenzregisterauszug erhalten haben, fügen wir diesem zunächst, falls vorhanden, die von Ihnen ermittelten wirtschaftlichen Berechtigten hinzu. 
 
 Im nächsten Schritt wird anhand von Vor- und Nachnamen sowie dem Geburtstag nach Treffern im Handelsregister gesucht. Die Suche erfolgt dabei nur nach Hardmatch.
 
 ![tabelle](/assets/transparenzregister/tabelle.png)
+Abbildung 23
 
 ---
 **Fall D**

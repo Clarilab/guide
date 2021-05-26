@@ -109,6 +109,8 @@ Should an update or an extension of the data be necessary, you can do so using e
 Here you will find all necessary information on the legal representatives as well as the beneficial owners.
 Here, too, you can request an update / extension of the data by clicking on request search below or edit the data yourself.
 
+In addition, if it is an international company, you will find the investigation protocol here.
+
 ---
 
 ### Documents
@@ -121,6 +123,9 @@ Under the tab „Documents“ you can order and download the following types of 
 
 - Based on SCHUFA:
   GwG-Vollauskunft, -Kompaktauskunft, -Kurzauskunft
+
+**For international companies there is no GwG-Auskunft from SCHUFA.
+You can call up an investigation report under the "Persons"-Tab**
 
 - Based on the Trade register:
   Current Copy, chronological Copies, List of shareholders and shareholders’ agreement

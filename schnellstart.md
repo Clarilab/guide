@@ -122,6 +122,8 @@ Sollte eine Aktualisierung bzw. Erweiterung der Daten erforderlich sein können 
 Hier finden Sie alle notwendigen Informationen zu den gesetzlichen Vertretern sowie den wirtschaftlich Berechtigten.
 Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisierung / Erweiterung der Daten beantragen.
 
+Außerdem finden Sie hier, falls es sich um ein internationales Unternehmen handelt, das Ermittlungsprotokoll.
+
 ---
 
 ### Dokumente
@@ -134,6 +136,9 @@ Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisi
   
   GwG-Vollauskunft, -Kompaktauskunft, -Kurzauskunft
 
+  **Für internationale Unternehmen gibt es keine GwG-Auskunft der SCHUFA.
+  Dass Ermittlungsprotokoll können Sie unter dem Reiter "Personen" abrufen.**
+
 - Basierend auf Handelsregister:
 
   Aktueller Abdruck, chronologischer Abdruck, Gesellschafterliste sowie Gesellschaftervertrag
@@ -141,6 +146,8 @@ Auch hier können Sie unten durch klicken auf Recherche anfordern eine Aktualisi
 - Transparenzregister-Auszug
 
 Darüber hinaus können Sie eigene Dokumente hochladen.
+
+
 
 ---
 

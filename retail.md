@@ -119,33 +119,33 @@ Haben Sie alle Daten und Dokumente für Ihre neue KYC-Akte gesammelt, können Si
 Haben Sie eine Akte neu angelegt steht hier zunächst "Nicht ermittelt". Um das Risiko zu ermitteln, müssen alle Risikofaktoren geprüft werden.
 Erst wenn alle Risikofakturen geprüft wurden, lässt sich das Geldwäscherisiko einer Akte ermitteln und die Akte schließen.
 
-1. Namescreening
+1. **Namescreening**
 
-Alle der Akte hinzugefügten Personen werden gegen über 1200 PEP-, Sanktions-, Watch- und Blacklisten geprüft. Drücken Sie dafür den Button "Screening starten". Etwaige Treffer werden Ihnen mit entsprechenden Details angezeigt.
-Es obliegt Ihnen festzustellen, ob (einer) der Treffer relevant ist oder nicht.
+    Alle der Akte hinzugefügten Personen werden gegen über 1200 PEP-, Sanktions-, Watch- und Blacklisten geprüft. Drücken Sie dafür den Button "Screening starten". Etwaige Treffer werden Ihnen mit entsprechenden Details angezeigt.
+    Es obliegt Ihnen festzustellen, ob (einer) der Treffer relevant ist oder nicht.
 
-Die Ergebnisse des Namescreenings werden entsprechend der Listen, für die ein Treffer gefunden wurde, unterteilt.
-Die Listentypen sind:
+    Die Ergebnisse des Namescreenings werden entsprechend der Listen, für die ein Treffer gefunden wurde, unterteilt.
+    Die Listentypen sind:
 
-- PEP-Listen (Politisch exponierte Personen)
-- Sanktions- / Embargolisten
-- Watch- / Blacklists
+   - PEP-Listen (Politisch exponierte Personen)
+   - Sanktions- / Embargolisten
+   - Watch- / Blacklists
 
-Es kann so beispielsweise vorkommen, dass sowohl ein Treffer in Sanktions- / Embargolisten gefunden wird, als auch in Watch- / Blacklists.
+    Es kann so beispielsweise vorkommen, dass sowohl ein Treffer in Sanktions- / Embargolisten gefunden wird, als auch in Watch- / Blacklists.
 
-Wenn Sie im Verlauf der KYC-Prüfung neue Personen der Akte hinzufügen, muss das Screening nochmals durchgeführt werden.
+    Wenn Sie im Verlauf der KYC-Prüfung neue Personen der Akte hinzufügen, muss das Screening nochmals durchgeführt werden.
 
-2. Hochrisikodrittstaat
+2. **Hochrisikodrittstaat**
 
-Alle **Wohnsitzländer** aller Personen, die im Reiter Personen hinzugefügt wurden, werden automatisch gegen eine hinterlegte Liste an Hochrisikodrittstaaten geprüft. Diese Liste entspricht der Verordnung der Europäischen Kommission welche Drittländer mit hohem Risiko bestimmt.
+    Alle **Wohnsitzländer** aller Personen, die im Reiter Personen hinzugefügt wurden, werden automatisch gegen eine hinterlegte Liste an Hochrisikodrittstaaten geprüft. Diese Liste entspricht der Verordnung der Europäischen Kommission welche Drittländer mit hohem Risiko bestimmt.
 
-3. Unternehmensinternes Risiko
+3. **Unternehmensinternes Risiko**
 
-Hier können Sie ein festgestelltes unternehmensinternes Risiko gemäß Ihrer Risikoanalyse festhalten. Stellen Sie ein unternehmensinternes Risiko fest, können Sie dieses im Reiter "verstärkte Sorgfaltspflichten" konkreter beschreiben.
+    Hier können Sie ein festgestelltes unternehmensinternes Risiko gemäß Ihrer Risikoanalyse festhalten. Stellen Sie ein unternehmensinternes Risiko fest, können Sie dieses im Reiter "verstärkte Sorgfaltspflichten" konkreter beschreiben.
 
-4. Hochrisikotransaktion
+4. **Hochrisikotransaktion**
 
-Hier können Sie vermerken, falls es sich bei der Transaktion im Rahmen Ihres KYC Prozess um eine komplexe, große oder ungewöhnliche Transaktion, oder um eine Transaktion ohne offensichtlichen wirtschaftlichen bzw. rechtmäßigen Zweck handelt. Ist dies der Fall, können Sie die Transaktion im Reiter "Verstärkte Sorgfaltspflicht" konkreter beschreiben
+    Hier können Sie vermerken, falls es sich bei der Transaktion im Rahmen Ihres KYC Prozess um eine komplexe, große oder ungewöhnliche Transaktion, oder um eine Transaktion ohne offensichtlichen wirtschaftlichen bzw. rechtmäßigen Zweck handelt. Ist dies der Fall, können Sie die Transaktion im Reiter "Verstärkte Sorgfaltspflicht" konkreter beschreiben
 
 Wurden alle vier Risikofaktoren bearbeitet erscheint oben das Ergebnis der Prüfung.
 

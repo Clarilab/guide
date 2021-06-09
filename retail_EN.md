@@ -5,6 +5,8 @@
 KYCnow supports you in creating a digital KYC-record for business relationships with natural persons and so helps you to comply with obligations surrounding money laundering.
 In order to get started you first must have selected the tab “Private customers” in KYCnow. The tab company customers is provided for companies as business partners.
 
+---
+
 ## General sequence
 
 Creating a digital KYC-record for a business relationship with natural Persons consists of the following steps:
@@ -25,9 +27,13 @@ Once all steps have been carried out, the record can be closed.
 
 To guarantee maximal flexibility KYCnow does not require a strict succession of the steps. It is possible to add or change Data and determine the risk again. The general succession is merely a recommendation.
 
+---
+
 ## KYCnow Private customers, a Step for Step Guide
 
 In this Section each Step, from creating a record to its audit-proof filing, will be described in detail.
+
+---
 
 ### Add a record
 
@@ -48,15 +54,23 @@ Further information is to be given later on.
 
 If you are creating a record for a group of persons, you can add several persons to the contract party group. This may be the case, for example, in a real estate transaction with spouses. This group can be as large as you like and can be expanded using the “Add”-Button or reduced using the wastebasket-icon.
 
+---
+
 **Please note that persons, with whom the record was created, cannot be removed of the record going forward. The same goes for the business purpose. Further persons can always be added, later on.**
 
+---
+
 Once you click “create record” the record is moved to “New records” while you are automatically forwarded to the next necessary step “Identify Persons”
+
+---
 
 ### Overview
 
 Here all relevant information can be found in a compressed fashion. You can also view the current status of processing here at any time, e.g. whether all persons have already been identified or whether the amount of due diligence has already been determined. Further steps start under the tab “Identify Persons”
 
 ![overview_lowrisk](assets/retail_EN/overview_lowrisk.png)
+
+---
 
 ### Identify Persons
 
@@ -92,18 +106,24 @@ Please add all persons in their respective rolls who are involved in the initiat
 Once you have identified a person to your satisfaction and filled in the according fields, please mark this person as “Identified”. Under the tab “Overview” you can always see, who has already been identified and who hasn’t.
 As long as a record hasn’t been closed, you can make changes to the data.
 
+---
+
 ### Add documents
 
 The tab “Add Documents” is the document archive belonging to the individual KYC-Record. Here you can select the document type, be it an “Identification document”, a “credit document” or any “other document” and upload the corresponding document.
 
 ![documents](assets/retail_EN/documents.png)
 
+---
+
 ### Check Due Diligence
 
 Once you have collected all the data and documents for your new KYC file, you can determine the money laundering risk of the file under the "Check due diligence" tab on the basis of several risk factors. The resulting risk determines the due diligence to be performed.
 
+![checkduediligence_start](assets/retail_EN/checkduediligence_start.png)
+
 If you have created a new file, the risk is set as "Not determined". To determine the risk, all risk factors must be checked.
-Only once all risk factors have been checked can the money laundering risk of a file be determined, and the file closed.
+**Only once all risk factors have been checked can the money laundering risk of a file be determined, and the file closed.**
 
 1. Name Screening
 
@@ -139,6 +159,8 @@ If a "general due diligence" has been determined, you can close the file by clic
 
 If a high risk of money laundering has been identified, you will need to complete the next tab "Enhanced due diligence".
 
+---
+
 ### Enhanced due diligence
 
 This tab will only appear if a high money laundering risk has been identified based on the risk factors.
@@ -170,6 +192,10 @@ If the name screening of your contractual partner has revealed that this person 
 In addition, a release of the business relationship by the supervisor is required.
 If the person is on a sanctions/embargo list, you may not enter into the business relationship.
 
+---
+
 ### Inventory and Export
 
 Once you have determined the money laundering risk and have performed any necessary enhanced due diligence, you can close the file by clicking on the lock icon in the upper right corner.
+In closing the file, it is automatically saved in an audit-proof manner and moved to "Closed records". For this reason no changes can be made to the file once it has been closed.
+Furthermore, once you have closed the file you can export it as a PDF-File.

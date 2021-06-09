@@ -10,6 +10,10 @@ Wir helfen Ihnen beim Einsatz der KYCnow-Plattform.
 
 ## Inhaltsverzeichnis
 
-- [Schnellstart](schnellstart)
-- [Quickstart](quickstart)
+- [Schnellstart - Firmenkunden](schnellstart)
+- [Quickstart - Company customers](quickstart)
+  
 - [Transparenzregister](transparenzregister)
+
+- [Schnellstart - Privatpersonen](retail)
+- [Quickstart - Privat persons](transparenzregister)

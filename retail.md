@@ -12,22 +12,20 @@ published: true
 
 ---
 
-KYCnow hilft Ihnen dabei eine digitale KYC-Akte für eine Geschäftsbeziehung mit natürlichen Personen zu erstellen und unterstützt sie damit darin, Ihre geldwäscherechtlichen Pflichten einzuhalten.
+KYCnow hilft Ihnen dabei eine digitale KYC-Akte für die Vermittlung Ihres Rechtsgeschäftes bzw. für Ihrer Geschäftsbeziehung (später immer Geschäftsbeziehung genannt) mit natürlichen Personen zu erstellen. KYCnow unterstützt Sie darin, Ihre geldwäscherechtlichen Pflichten einzuhalten.
 Dafür müssen Sie in KYCnow den Bereich "Privatpersonen" ausgewählt haben. Der Bereich "Firmenkunden" ist für die KYC-Prüfung von Firmen als Geschäftspartner vorgesehen.
-
----
 
 ## Grundsätzliche Abfolge
 
 Die Erstellung einer digitalen KYC-Akte für eine Geschäftsbeziehung mit natürlichen Personen hat stets folgenden Ablauf:
 
-1. Akte anlegen
-2. Beschaffung aller notwendigen Daten und Dokumente
-3. Risikoprüfung
+1. Das Anlegen einer digitalen KYC-Akte 
+2. Das Erfassen und Hochladen aller notwendigen Daten und Dokumente
+3. Die Ermittlung der Kundensorgfaltspflicht, durch die Bewertung von Risikofaktoren
 4. Erfüllung verstärkter Sorgfaltspflichten im Falle eines hohen Risikos
-5. Revisionssichere Ablage der Akte
+5. Revisionssichere Ablage der digitalen Akte mit möglichen pdf-Export
 
-Für jeden dieser Schritte sind Funktionalitäten in KYCnow vorgesehen. Zu Beginn ist dabei immer ein neuer KYC-Fall anzulegen. Dies ist in der linken Seitenliste möglich. Alle angelegten Fälle sind in dem Bereich "Neue Fälle" vorzufinden. Ist ein Fall abgeschlossen, wandert er in den Bestand.
+Für jeden dieser Schritte sind Funktionalitäten in KYCnow vorgesehen. Zu Beginn ist dabei immer eine KYC-Akte anzulegen. Dies ist in der linken Seitenliste möglich. Alle angelegten Akten sind in dem Bereich "Neue Fälle" vorzufinden. Wird eine KYC-Akte geschlossen, wandert sie in den Bestand.
 
 Durch das Klicken auf den Aktennamen unter neue Fälle oder Bestand, können Sie die jeweilige Akte einsehen.
 Die Akte ist in verschiedene Bereiche unterteilt, welche Sie über die oben platzierten Reiter ansteuern können.
@@ -36,13 +34,9 @@ Zuerst müssen alle Daten und Dokumente in den gleichnamigen Reitern gesammelt w
 
 Um maximale Flexibilität zu gewährleisten, gibt KYCnow hier keine starre Reihenfolge der Bearbeitung vor. Es ist also möglich Daten zu ergänzen/ändern und erneut das Risiko zu ermitteln. Die grundsätzliche Abfolge stellt daher eine Empfehlung in der Nutzung dar, aber ist vorerst nicht zwangsläufig vorgegeben.
 
----
-
 ## KYCnow Privatpersonen Schritt für Schritt Anleitung
 
-In diesen Abschnitt werden Ihnen alle Schritte von der Erstellung der Akte bis hin zu ihrer revisionssicheren Ablage aufgezeigt. Die Reihenfolge der Schritte entspricht dabei der Abfolge in KYCnow.
-
----
+In diesen Abschnitt werden Ihnen alle Schritte von der Erstellung der KYC-Akte bis hin zu ihrer revisionssicheren Ablage aufgezeigt. Die Reihenfolge der Schritte entspricht dabei der Abfolge in KYCnow.
 
 ### Fall anlegen
 
@@ -50,7 +44,7 @@ Zu Beginn Ihres neuen KYC-Prozesses, ist eine neue Akte anzulegen. Gehen Sie daf
 
 ![anlage](/assets/retail/anlage.png)
 
-Weisen Sie der Akte zunächst einen individuellen Namen zu. Weiterhin müssen Sie zu Beginn den Zweck der Geschäftsbeziehung angeben, ob Sie einen Kaufvertrag vermitteln, oder einen Miet/Pachtvertrag mit einer Monatsmiete > 10.000€.
+Weisen Sie der Akte zunächst einen individuellen Namen zu. Wir empfehlen Ihnen, bei „Name der Akte“ die Bezeichnung der Liegenschaft oder Ihr internes Aktenzeichen einzutragen. Weiterhin müssen Sie zu Beginn den Zweck der Geschäftsbeziehung angeben, ob Sie einen Kaufvertrag vermitteln, oder einen Miet/Pachtvertrag mit einer Monatsmiete > 10.000€.
 Schließlich wählen Sie noch aus, ob Ihr Vertragspartner eine Einzelperson oder eine Personengemeinschaft ist. Mit dieser Auswahl erscheinen weitere Felder in welchen Sie Daten zu Ihrem Vertragspartner(n) festhalten.
 Die notwendigen Daten sind:
 
@@ -61,33 +55,29 @@ Die notwendigen Daten sind:
 
 Alle weiteren Daten sind später zu ergänzen.
 
-Legen Sie die Akte als Personengemeinschaft an, können Sie mehrere Personen einer Vertragspartnergruppe hinzufügen. Dies kann beispielsweise bei einem Immobiliengeschäft mit Eherpartnern der Fall sein. Eine Gruppe kann beliebig groß sein und über den Button "Hinzufügen" erweitert, bzw. mit dem Papierkorb-Button verringert werden.
-
----
+Legen Sie die Akte als Personengemeinschaft an, können Sie mehrere Personen, die Vertragspartner sind, dieser  KYC-Akte hinzufügen. Unter Personengemeinschaften fallen beispielsweise Ehepaare, Erbengemeinschaften oder GbRs, die in keinem Register geführt werden, die in der Rolle Vertragspartner auftreten. Personen, die im Auftrag des Vertragspartners handeln, werden zu einem späteren Zeitpunkt der Akte zugefügt. Eine Personengemeinschaft  kann beliebig groß sein und über den Button "Hinzufügen" erweitert, bzw. mit dem Papierkorb-Button verringert werden.
 
 **Achten Sie darauf, dass diejenigen Personen, zu denen eine Akte angelegt wurde, nicht mehr aus der Akte gelöscht werden können. Auch der Zweck der Geschäftsbeziehung kann danach nichtmehr geändert werden. Weitere Personen können allerdings immer hinzugefügt werden.**
 
----
-
 Sobald Sie auf "Akte anlegen" clicken, wandert die Akte in den Bereich "Neue Fälle" und Sie werden automatisch zu dem nächsten notwendigen Schritt, der Identifizierung der Person(en), weitergeleitet.
-
----
 
 ### Übersicht
 
 Hier sind alle wichtigen Informationen der Akte komprimiert vorzufinden. Sie können hier auch jederzeit den Stand der Bearbeitung einsehen, also bspw. ob bereits alle Personen identifiziert wurden oder ob die Höhe der Sorgfaltspflicht bereits ermittelt wurde. Die weitere Bearbeitung startet im Reiter "Person identifizieren".
 
-![übersicht_niedrigesrisiko](assets/retail/übersicht_niedrigesrisiko.png)
-
----
+![overview_lowrisk](assets/retail/übersicht_niedrigesrisiko.png)
 
 ### Person identifizieren
 
-Der Reiter Daten bietet die Möglichkeit relevante Daten zu allen an dem KYC-Prozess beteiligten Personen zu sammeln. Er beginnt mit unveränderlichen allgemeinen Informationen zur Akte, nämlich wer diese erstellt hat, dem Zeitpunkt wann die Akte erstellt wurde sowie dem Grund der Aufzeichnung (hier ist als Grund die "Identifizierung" vorausgewählt) und dem Zweck der Geschäftsbeziehung.
+Der Reiter „Personen identifizieren“ beinhaltet die Aufzeichnungspflicht bezüglich der von Ihnen durchgeführten Identifizierung. Vertragspartner, die Sie bei „Fall anlegen“ bereits angelegt hatten, werden hier angezeigt und können um weitere Daten ergänzt werden. Zusätzlich können weitere Personen anlegen werden, wie beispielsweise die handelten Personen. 
 
-![daten_allgemeineinfos](assets/retail/daten_allgemeineinfos.png)
+Der Reiter Daten beginnt mit unveränderlichen allgemeinen Informationen zur Akte, nämlich wer diese erstellt hat, dem Zeitpunkt wann die Akte erstellt wurde sowie dem Grund der Aufzeichnung (hier ist als Grund die "Identifizierung" vorausgewählt) und dem Zweck der Geschäftsbeziehung.
 
-Darunter finden Sie die Person(en) vor, mit welchen die Akte angelegt wurde. Diese können in ihren Stammdaten ergänzt, aber nicht mehr vollständig gelöscht werden. Eine Akte besteht daher immer mindestens aus einer Person mit der Rolle "Vertragspartner".
+![daten_general](assets/retail/daten_allgemeineinfos.png)
+
+Darunter finden Sie die Person(en) vor, mit welchen die Akte angelegt wurde. Diese können in ihren Stammdaten optional ergänzt, aber nicht mehr vollständig gelöscht werden. Eine Akte besteht daher immer mindestens aus einer Person mit der Rolle "Vertragspartner". Bitte denken Sie daran, den Schieberegler auf „identifiziert zu stellen, wenn Sie eine Identifizierung anhand des Ausweisdokumentes durchgeführt haben. 
+
+Hinweis: Ohne durchgeführte Identifizierung aller Vertragspartner und handelten Personen dürfen Sie keine Geschäftsbeziehung eingehen.
 
 ![daten_initialperson](assets/retail/daten_initialperson.png)
 
@@ -114,11 +104,9 @@ Bitte fügen Sie hier alle Personen hinzu, die in den entsprechenden Rollen an I
 Wenn Sie eine Person zu Ihrer Zufriedenheit identifiziert und alle entsprechenden Felder ausgefüllt haben, markieren Sie die Person bitte als "Identifiziert". Unter dem Reiter "Übersicht" können Sie jederzeit schnell erkennen, wen Sie bereits identifiziert haben und wen nicht.
 Solange eine Akte noch nicht abgeschlossen ist, können Sie weiterhin Änderungen vornehmen.
 
----
-
 ### Dokumente hinzufügen
 
-Der Reiter "Dokumente" ist das der Akte zugehörige Dokumenten-Archiv. Wählen Sie dort einen Dokumententyp aus und laden das zugehörige Dokument, wie beispielsweise Kopien von Personalausweisen hoch.
+Der Reiter "Dokumente" ist das der Akte zugehörige Dokumenten-Archiv. Wählen Sie dort einen Dokumententyp aus und laden das zugehörige Dokument, wie beispielsweise Kopien von Personalausweisen Grundbuchauszug und/oder Finanzierungsbelege hoch.
 
 ![dokumente](assets/retail/dokumente.png)
 
@@ -128,20 +116,16 @@ Sie können unter folgenden Typen Dokumente hochladen:
 - Bonitätsdokumente
 - Weitere Dokumente
 
----
-
 ### Sorgfaltspflicht prüfen
 
-Haben Sie alle Daten und Dokumente für Ihre neue KYC-Akte gesammelt, können Sie das Geldwäscherisiko der Akte unter dem Reiter "Sorgfaltspflicht prüfen" an Hand verschiedener Risikofaktoren ermitteln. Aus dem ermittelten Risiko resultiert außerdem die aufzubringende Sorgfaltspflicht.
-
-![sorgfaltspflicht_beginn](assets/retail/sorgfaltspflicht_beginn.png)
+Haben Sie alle Daten und Dokumente für Ihre neue KYC-Akte gesammelt, können Sie das Geldwäscherisiko der Akte unter dem Reiter "Sorgfaltspflicht prüfen" anhand verschiedener Risikofaktoren ermitteln. Aus dem ermittelten Risiko resultiert außerdem die aufzubringende Sorgfaltspflicht.
 
 Haben Sie eine Akte neu angelegt steht hier zunächst "Nicht ermittelt". Um das Risiko zu ermitteln, müssen alle Risikofaktoren geprüft werden.
-**Erst wenn alle Risikofakturen geprüft wurden, lässt sich das Geldwäscherisiko einer Akte ermitteln und die Akte schließen.**
+Erst wenn alle Risikofakturen geprüft wurden, lässt sich das Geldwäscherisiko einer Akte ermitteln und die Akte schließen.
 
 1. **Namescreening**
 
-    Alle der Akte hinzugefügten Personen werden gegen über 1200 PEP-, Sanktions-, Watch- und Blacklisten geprüft. Drücken Sie dafür den Button "Screening starten". Etwaige Treffer werden Ihnen mit entsprechenden Details angezeigt.
+    Alle der KYC-Akte hinzugefügten Personen werden gegen über 1200 PEP-, Sanktions-/Embargo-, Watch- und Blacklisten geprüft. Drücken Sie dafür den Button "Screening starten". Etwaige Treffer werden Ihnen mit entsprechenden Details angezeigt.
     Es obliegt Ihnen festzustellen, ob (einer) der Treffer relevant ist oder nicht.
 
     Die Ergebnisse des Namescreenings werden entsprechend der Listen, für die ein Treffer gefunden wurde, unterteilt.
@@ -153,7 +137,9 @@ Haben Sie eine Akte neu angelegt steht hier zunächst "Nicht ermittelt". Um das 
 
     Es kann so beispielsweise vorkommen, dass sowohl ein Treffer in Sanktions- / Embargolisten gefunden wird, als auch in Watch- / Blacklists.
 
-    Wenn Sie im Verlauf der KYC-Prüfung neue Personen der Akte hinzufügen, muss das Screening nochmals durchgeführt werden.
+    Bitte beachten Sie: Wenn Sie im Verlauf der KYC-Prüfung neue Personen der Akte hinzufügen, müssen Sie das Screening für alle Personen nochmals durchführen. Bereits getroffene Entscheidungen bei vorherigen Screenings müssen nochmals getätigt werden.
+
+    Empfehlung: Starten Sie erst das Screening, wenn Sie alle Personen der KYC-Akte zugefügt haben. 
 
 2. **Hochrisikodrittstaat**
 
@@ -173,44 +159,46 @@ Wenn eine "allgemeine Sorgfaltspflicht" ermittelt wurde, können sie die Akte ab
 
 Falls ein hohes Geldwäscherisiko ermittelt wurde, müssen Sie den nächsten Reiter "Verstärkte Sorgfaltspflicht" ausfüllen.
 
----
-
 ### Verstärkte Sorgfaltspflicht
 
-Dieser Reiter erscheint nur dann, wenn aufgrund der Risikofaktoren ein hohes Geldwäscherisiko festgestellt wurde.
-Wurde ein erhöhtes Geldwäscherisiko festgestellt dürfen Sie die Geschäftsbeziehung nur dann begründebn, wenn Sie die verstärkten Sorgfaltspfichten durchführen können.
+Dieser Reiter ist nur dann zur Bearbeitung frei geschaltet,  wenn für mindestens eins der vier Risiken ein erhöhtes Geldwäscherisiko ermittelt wurde. Für jedes ermittelte Risiko sind die verstärkten Sorgfaltspflichten durchzuführen. 
+
 Dokumente, welche Sie im Zuge der verstärkten Sorgfaltspflichten erheben, können Sie unter dem Reiter "Dokumente" ablegen.
 
-Es werden nur diejenigen Risikofaktoren aufgezeigt, für die zuvor unter dem Reiter "Sorgfaltspflicht prüfen" ein erhöhtes Risiko festgestellt wurde.
-
-Es gibt folglich folgende Gründe für eine verstärkte Sorgfaltspflicht:
+Jedes Risiko (Namescrenning, Hochrisikodrittstaat, Unternehmensrisiko, Hochrisikotransaktion) hat seine spezifischen Eingabefelder. 
 
 #### Unternehmensinternes Risiko
 
 Falls ein unternehmensinternes Risiko festgestellt wurde, ist im Zuge der verstärkten Sorgfaltspflicht außerdem der Sachverhalt zu beschreiben sowie die Mittelherkunft zu prüfen und zu belegen.
-Außerdem ist eine Freigabe der Geschäftsbeziehung durch den Vorgesetzten erforderlich.
+Außerdem ist eine Freigabe der Geschäftsbeziehung durch den den Geldwäschebeauftragten bzw. durch die Geschäftsleitung erforderlich.
 
 #### Hochrisikotransaktion
 
-Falls Sie eine hochrisikotransaktion festgestellt haben, können Sie zunächst unterscheiden zwischen (1) einer komplexen oder großvolumigen Transaktion, (2) einer ungewöhnlichen Transaktion oder (3) einer Transaktion ohne offensichtlichen wirtschaftlichen Zweck.
+Falls Sie eine Hochrisikotransaktion festgestellt haben, können Sie zunächst unterscheiden zwischen (1) einer komplexen oder großvolumigen Transaktion, (2) einer ungewöhnlichen Transaktion oder (3) einer Transaktion ohne offensichtlichen wirtschaftlichen Zweck.
 Zudem ist die Transaktion zu beschreiben.
 
 #### Hochrisikodrittstaat
 
 Hat ihr Vertragspartner seinen Wohnsitz in einem Hochrisikodrittstaat, schreibt das Geldwäschegesetz vor, dass die Mittelherkunft der Person zu überprüfen und zu belegen ist.
-Auch hier ist eine Freigabe der Geschäftsbeziehung durch den Vorgesetzten erforderlich.
+Auch hier ist eine Freigabe der Geschäftsbeziehung durch den den Geldwäschebeauftragten bzw. durch die Geschäftsleitung erforderlich.
 
 #### Namescreening
 
-Falls das Namescreening ihres Vertragspartners ergeben hat, das dieser eine politisch exponierte Person (PEP) ist, ist die Mittelherkunft zu prüfen und zu belegen.
-Außerdem ist eine Freigabe der Geschäftsbeziehung durch den Vorgesetzten erforderlich.
-Sollte die Person auf einer Sanktions-/Embargo-Liste stehen, dürfen Sie die Geschäftsbeziehung nicht eingehen.
+Falls das Namelistscreeing Treffer bei PEP ergeben hat, so müssen Sie die Mittelherkunft prüfen und belegen. Ferner benötigen Sie auch hier die Zustimmung ihres Geldwäschebeauftragten bzw. der Geschäftsleitung. 
 
----
+Im Fall von bestätigten Treffern auf der Sanktion- und Embargoliste dürfen Sie die Geschäftsbeziehung nicht eingehen. Eine Meldung an die FIU ist abzugeben.
+
+Im Falle von Treffern auf Watch- und Blacklisten müssen Sie die Mittelherkunft prüfen und belegen. Die Zustimmung der Geschäftsleitung ist notwendig. Sollte keine Zustimmung erfolgen kann eine Meldung an die FIU in Frage kommen. 
+
 
 ### Bestand und Export
 
-Wenn Sie das Geldwäscherisiko ermittelt haben und eventuell notwendige verstärkte Sorgfaltspflichten erfüllt haben, können Sie mit klicken auf das Schloss-Icon oben rechts die Akte schließen.
-Mit schließen der Akte, wird diese Revisionssicher abgespeichert und in den Bestand verschoben. Sie können die Akte in diesem Fall nicht mehr verändern.
+Sobald Sie 
+- alle Personen der Akte identifiziert 
+- alle Dokumente hochgeladen wurden
+- das Risiko über alle Personen der Akte ermittelt wurde und 
+- ggfs. die verstärkten Sorgfaltspflichten durchgeführt wurde, 
 
-Ist eine Akte geschlossen, können Sie diese außerdem als PDF-Format exportieren.
+können Sie mit klicken auf das Schloss-Icon oben rechts die Akte schließen. Mit schließen der Akte, wird die KYC-Akten mit allen Daten und Dokumenten revisionssicher abgespeichert und in den Bestand verschoben. Sie können die KYC-Akte dann nicht mehr verändern.
+
+Ist eine Akte geschlossen, können Sie diese außerdem als eine Datei im PDF-Format exportieren. In dieser pdf-Datei sind alle Information der digitalen KYC-Akte enthalten, inkl. der hochgeladenen Dokumente. 

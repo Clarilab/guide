@@ -37,7 +37,7 @@ Abschließend sei auf eine Besonderheit der Testumgebung für die Prüfung von F
 - Kultur Service GmbH, Schloß Lichtenstein 1, 72805 Lichtenstein
 - Vistel AG & Co. KG, Thomas-Meier-Str. 63, 45156 Mayen
 
-Wenden Sie sich gerne bei weiteren Fragen an Ihren Ansprechpartner
+Wenden Sie sich gerne bei weiteren Fragen an Ihren Ansprechpartner.
 
 ## Datentest
 
@@ -47,4 +47,4 @@ Haben Sie gegenüber Ihrem Ansprechpartner einen Datentest in Auftrag gegeben, w
 
 Sie können sich nun mit Ihrer Mail-Adresse und Ihrem gesetzten Passwort auf **www.app.kycnow.de** einloggen. Die für den Datentest beauftragten Firmen befinden sich im Reiter **"Bestand"**. Alle anderen Reiter sind für den Datentest deaktiviert. 
 
-Wenden Sie sich gerne bei weiteren Fragen gerne an Ihren Ansprachpartner
+Wenden Sie sich gerne bei weiteren Fragen gerne an Ihren Ansprachpartner.

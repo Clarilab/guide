@@ -4,139 +4,126 @@ title: schnellstart
 published: true
 ---
 
-# Ermittlung des wirtschaftlich Berechtigten mit KYCnow
+# Determination of the beneficial owner with KYCnow
 
 ---
 
-Ein wirtschaftlich Berechtigter gem. §3 GwG ist eine natürliche Person, in deren Eigentum ein Unternehmen liegt oder die dieses Unternehmen kontrolliert.
-Außerdem kann ein wirtschaftlich Berechtigter auch die Person sein, die eine Transaktion veranlasst oder die eine Begründung einer Geschäftsbeziehung veranlasst.
+A beneficial owner according to §3 GwG is a natural person who owns or controls a company.
+In addition, a beneficial owner can also be the person who initiates a transaction or who initiates the establishment of a business relationship.
 
-Zur Ermittlung von wirtschaftlich Berechtigten bezieht KYCnow die Informationen von verschiedenen Anbietern, derzeit SCHUFA und Dun & Bradstreet.
-KYCnow ermittelt wirtschaftlich Berechtigte zunächst ausschließlich anhand deren Kapitalanteilen an dem jeweiligen Unternehmen. Das liegt daran, dass Stimmrechtsverteilungen nicht ohne weiteres ersichtlich sind. In der Regel kann entsprechend der Kapitalanteile auf die Kontrollstrukturen geschlossen werden, die überwiegend mit den Eigentumsverhältnissen äquivalent sind (Vermutungsprinzip).  
+To identify beneficial owners, ClariLab obtains the information from various providers, currently SCHUFA and Dun & Bradstreet.
+ClariLab initially identifies beneficial owners exclusively based on their capital shares in the respective company. This is because distribution of voting rights is not always readily apparent. It is usually possible to conclude the control structures on the basis of the capital shares, which are predominantly equivalent to the ownership structures (presumptionprinciple).
 
-Grundsätzlich wird der wirtschaftlich Berechtigte unabhängig des Anbieters auf Basis desselben Regelwerks ermittelt, immer entlang der Auslegungs- und Anwendungshinweise der Deutschen Kreditwirtschaft.
-Der Ermittlungsnachweis ist seitens SCHUFA im bekannten GWG Design dargestellt und gestaltet sich seitens Dun & Bradstreet im reinen KYCnow Layout.
-
----
-
-## Datenquellen
-
-Die Informationen der Anbieter werden dabei nicht zusammengeführt.
-
-### Unternehmen ohne Auslandsbeziehungen
-
-Für Unternehmen ohne Verflechtungen ins Ausland zieht KYCnow ausschließlich Informationen der SCHUFA heran.
-
-Für das Anfrageobjekt GmbH 1 aus Abb. 1, würden also, da es keinerlei Verflechtungen ins Ausland aufweist, die Informationen der SCHUFA herangezogen werden
-
-### Unternehmen mit Auslandsbeziehungen
-
-Für Unternehmen mit Verflechtungen ins Ausland zieht KYCnow ausschließlich Informationen von Dun & Bradstreet heran.
-
-Für das Anfrageobjekt GmbH 2 würden also die Daten von Dun & Bradstreet herangezogen werden, da das Unternehmen Verflechtungen ins Ausland hat, beispielsweise durch eine natürliche Person im Ausland oder einem beteiligten Unternehmen im Ausland.
-Auch für das Anfrageobjekt GmbH 3 würden die Daten von Dun & Bradstreet herangezogen werden, da es vollständig im Ausland liegt.
-
-![anfragelogik](/assets/ubo/anfragelogik.png)
-
-Es ist nicht möglich sich von vornherein für einen bestimmten Anbieter zu entscheiden. Bei einer Anfrage nach einem Unternehmen mit Sitz in Deutschland wird immer zunächst anhand der Informationen der SCHUFA geprüft. Wird im Zuge dieser Prüfung festgestellt, dass das angefragte Unternehmen Verflechtungen ins Ausland hat, wird die Ermittlung über SCHUFA abgebrochen und stattdessen mit den Informationen von Dun & Bradstreet weiter ermittelt.
-Bei einer Anfrage nach einem Unternehmen mit Sitz im Ausland werden die Informationen von Dun & Bradstreet herangezogen.
+The beneficial owner is always determined on the basis of the same set of rules, non-regarding of the provider and always along the interpretation and application instructions of the German banking industry.
+The proof of investigation through SCHUFA is presented in the well-known GWG design while the proof of investigation through Dun & Bradstreet is presented in the KYCnow layout.
 
 ---
 
-## Allgemeine Informationen über die Ermittlung
+Data sources
 
-Als Basis für die Ermittlung der wirtschaftlichen Berechtigung werden die Eigentums- und Haftungsverhältnisse, welche durch die Rechtsform begründet sind, herangezogen. 
- 
-Die Ermittlungslogik unterscheidet dabei grundsätzlich zwischen einstöckigen und mehrstöckigen Strukturen.
+The information of the providers is not merged.
 
-Bei einstöckigen Strukturen, also direkter Beteiligung einer natürlichen Person am angefragten Unternehmen, führt das Überschreiten des „25%-Schwellwertes“ zu einer Stellung als wirtschaftlich berechtigte Person. (s. Abb. 2, Fälle A, B)
+Companies without relations outside of Germany
+For companies without relations outside of Germany, ClariLab only uses information from SCHUFA.
 
-Bei mehrstöckigen Strukturen, also indirekter Beteiligung über eine zwischengeschaltete Gesellschaft, führt eine Beteiligung von >50% an der zwischengeschalteten Gesellschaft dazu, dass diese als beherrscht gilt. Überschreitet die zwischengeschaltete Gesellschaft ebenfalls 25% Direktbeteiligung am angefragten Unternehmen, gilt die indirekt beteiligte Person als wirtschaftlich berechtigte Person. (s. Abb. 2, Fall C, D)
+For the inquiry object GmbH 1 from Fig. 1, since it has no links abroad, the information of SCHUFA would be used
 
-Wurde eine tatsächlich wirtschaftlich berechtigte Person ermittelt, wird keine fiktive wirtschaftliche Berechtigung ausgegeben.
+Companies with relations outside of Germany
+For companies with relations outside of Germany, ClariLab only uses information from Dun & Bradstreet.
 
-![ubo_szenario_a_d](/assets/ubo/ubo_szenarien a_d.png)
+For the inquiry object GmbH 2 the data of Dun & Bradstreet would be used, since the company has links abroad, for example through a natural person abroad or a participating company abroad.
+The data of Dun & Bradstreet would also be used for the inquiry object GmbH 3, as it is completely located abroad.
 
-A: Die natürliche Person A wird als wirtschaftlich berechtigte Person ausgegeben, da sie unmittelbar über 25% Kapitalanteile an der angefragten GmbH 1 hat.
+![Anfragelogik_EN](/assets/ubo/anfragelogik_EN.png)
 
-B: Die natürliche Person B ist keine wirtschaftlich berechtigte Person. Dies liegt daran, dass sie unter 25% Kapitalanteile am angefragten Unternehmen hält.
+It is not possible to decide on a specific provider from the outset. In the case of an inquiry for a company based in Germany, it is always first checked based on the information provided by SCHUFA. If, during this examination, it is determined that the requested company has links abroad, the investigation via SCHUFA is aborted and instead investigated with only the information from Dun & Bradstreet. 
+When requesting a company based solely abroad, Dun & Bradstreet's information is used.
 
-C: Die AG 1 wird zu 70% von der GmbH 2 gehalten. Sie gilt von diesem Unternehmen daher als beherrscht. 
-Die GmbH 2 wiederum wird zu 95% von der natürlichen Person C gehalten, somit von dieser beherrscht. Deshalb wird Person C als wirtschaftlich berechtigte Person angesehen, Person D hingegen, da diese nur 5% Kapitalanteil am Unternehmen hält, nicht.
+General information about determination
+As a basis for determining the beneficial ownership, the ownership and liability relationships, which result from the companies legal form, are used.
 
-D: Wie auch schon die Person D, beherrscht auch Person E mit nur 45% Kapitalanteil das Unternehmen AG 2 nicht. Sie beherrscht deshalb nicht die AG 2 und wird deshalb nicht als wirtschaftlich berechtigte Person angesehen, unabhängig davon, dass AG 2 an für sich über 25% am angefragten Unternehmen hält.
+The investigation logic always distinguishes between single-story and multi-story structures.
 
-![ubo_szenario_e](/assets/ubo/ubo_szenario e.png)
+In the case of single-story structures, meaning the direct participation of a single natural person in the requested company, exceeding the "25% threshold" leads to a position as a beneficial owner. (see Fig. 2, Cases A, B)
 
-E: Die natürliche Person A ist sowohl direkt als auch indirekt an der GmbH 1 beteiligt. 
-Die direkte Beteiligung liegt dabei für sich genommen unter der 25% Schwelle.
-Im Fall der indirekten Beteiligung beherrscht A das zwischengelegene Unternehmen mit über 50%, weshalb ihm die 20% angerechnet werden.
-A ist damit gemäß der Summenregel mit 30% an der GmbH 1 beteiligt.
+In the case of multi-story structures, meaning indirect participation via an intermediary company, owning a stake of >50% in the intermediary company means that it is considered to be controlled by the person. If the intermediary company also exceeds 25% direct participation in the requested company, the person indirectly involved is a beneficial owner. (see Fig. 2, Case C, D)
 
-### Fiktive wirtschaftlich Berechtigte
-Erst wenn keine tatsächlich wirtschaftlich berechtigte Person ermittelt werden kann, werden die Personen der 1. Führungsebene als fiktive wirtschaftlich Berechtigte ausgegeben.
+If an actual beneficial owner has been identified, no fictitious beneficial owners are issued.
 
-Es gibt verschiedene Gründe, weshalb keine wirtschaftlich berechtigten Personen ermittelt werden können. Diese Gründe werden aus den Ermittlungsabbrüchen ersichtlich.
+![ubo_szenarien_a_d_EN](/assets/ubo/ubo_szenarien a_d_EN.png)
 
-![ubo_szenario_e](/assets/ubo/ubo_szenario f.png)
+A: The natural person A is issued as a beneficial owner, as he directly has over 25% capital shares in the requested GmbH 1.
 
----
+B: Natural person B is not a beneficial owner. This is because the person holds less than 25% capital shares in the requested company.
 
-## Ermittlungsschritte
+C: 70% of AG 1 is held by GmbH 2. It is therefore considered to be controlled by that company. 
+95% of GmbH 2, on the other hand, are held by the natural person C, thus controlled by him. Therefore, person C is considered a beneficial owner of GmbH 1.
+Person D is not a beneficial owner, since he holds only 5% of the capital in the company GmbH 2.
 
-Zur Ermittlung der wirtschaftlich Berechtigten sind zahlreiche Schritte notwendig. Damit diese nachvollziehbar dokumentiert werden können, werden die Ergebnisse aller Schritte dokumentiert. 
-Dafür wird zwischen Ermittlungsergebnissen (1) und Pfadergebnissen (2) unterschieden.
+D: Similar to Person D, Person E does not control AG 2 as Person E only holds 45% of the capital. This means Person E does not control AG 2 and is therefore not regarded as a beneficial owner, regardless of the fact that AG 2 in itself holds more than 25% of the requested company GmbH 1.
 
-![ermittlungsschritte](/assets/ubo/pfad_vs_ermittlungsergebnis.png)
+![ubo_szenario_e_EN](/assets/ubo/ubo_szenario e_EN.png)
 
----
+E: The natural person A is both directly and indirectly involved in GmbH 1.
+The direct participation is below the 25% threshold.
+In the case of indirect participation, A controls the intermediate company with more than 50%, which is why the 20% is credited to him as well.
+According to the sum rule, A thus holds a 30% stake in GmbH 1 and is considered a beneficial owner.
 
-## Pfadergebnisse
+Fictitious beneficial owners
+Only if no actual beneficial owner can be identified, the persons of the 1st management level are issued as fictitious beneficial owners.
 
-Pfadergebnisse können ermittelte wirtschaftlich berechtigte Personen sein. Es kann aber auch vorkommen, dass aus einem Pfad kein Rückschluss auf eine wirtschaftlich berechtigte Stellung getroffen werden kann. In diesem Fall kommt es zu einem Ermittlungsabbruch. Ein Ermittlungsabbruch ist ein üblicher Vorgang in der Erarbeitung eines Ermittlungsergebnisses und kann verschiedene Gründe haben.
+There are various reasons why no beneficial owners can be identified. These reasons result from the aborts of the investigation.
 
-![pfadergebnisse](/assets/ubo/pfadergebnisse.png)
+![ubo_szenario_f_EN](/assets/ubo/ubo_szenario f_EN.png)
 
-### Pfadergebnisse - SCHUFA
+Steps of determination
+Several steps are necessary to determine the beneficial owners. So that these can be documented in a comprehensive manner, the results of all steps are documented.
+For this purpose, a distinction is made between investigation results (1) and path results (2).
 
-SCHUFA unterscheidet zwischen verschiedenen Abbruchsgründen, welche im Folgenden aufgezählt und erläutert werden. 
+![pfad_vs_ermittlungsergebnis_EN](/assets/ubo/pfad_vs_ermittlungsergebnis_EN.png)
 
-1. Wirtschaftliche Berechtigung
-Konnte einer natürlichen Person eine wirtschaftliche Berechtigung zugeordnet werden, sei es durch die Summenregel oder unmittelbar, wird dies als Pfadergebnis festgehalten.
+Path Results
+Path results can be identified beneficial owners. However, it can also happen that no conclusions can be drawn from a path. In this case, the investigation of the path is discontinued. A termination is a common process in the development of an investigation result and can have various reasons.
 
-2. Ermittlungsende
-Ein Ermittlungsende wird beispielsweise dann ausgegeben, wenn Streubesitz ermittelt wird oder auch wenn Kommunen oder Landkreise ermittelt werden.
+![pfadergebnisse_EN](/assets/ubo/pfadergebnisse_EN.png)
 
-3. Keine wirtschaftliche Berechtigung
-Wird eine einzelne natürliche Person ermittelt, welche das Regelwerk für die UBO-Ermittlung nicht erfüllt, also bspw. nicht die notwendigen Kapitalanteile hält, wird dies so wiedergegeben.
+Path results - SCHUFA
+SCHUFA distinguishes between different reasons for cancellation, which are listed and explained below.
 
-4. Auslandsabbruch
-Befindet sich entweder die Muttergesellschaft oder eine natürliche Person im Ausland, wird ein Auslandsabbruch ausgegeben, da dem Pfad nicht weiternachgegangen wird. 
-Es kann also weitere UBOs im Ausland geben, die Daten liegen jedoch (noch) nicht vor.
+1. Beneficial ownership
+If a beneficial ownership could be issued, whether by the sum rule or directly, this is recorded as a path result.
 
-5. Im Register Gelöscht
-Das Unternehmen wurde aus dem Handelsregister gelöscht.
+2. End of investigation
+An end of investigation is issued, for example, when free float is determined or for example if municipalities or districts are determined.
 
-6. Gesperrt
-Ein beteiligtes Unternehmen ist gesperrt, weshalb keine weitere Ermittlung erfolgen kann.
+3. No beneficial ownership
+If a person is determined who does not meet the rules for the UBO determination, i.e. does not hold the necessary capital shares, this is expressed.
 
-7. Zirkelbezug
-In diesem Fall liegt eine Eigenbeteiligung vor – entweder des angefragten Unternehmens selbst oder eines beteiligten Unternehmens.
+4. Termination due to ties abroad
+If either the parent company or a natural person is abroad, a termination is issued because the path is not pursued.
+This means there may be other UBOs abroad, but the data is not (yet) available.
 
-8. Sonstige
-Dieser Ermittlungsabbruch wird ausgegeben, wenn ein Unternehmen keine Kapitalanteile hat. Dies wäre bspw. bei einer Stiftung oder einem Verein der Fall.
+5. Deleted from registry
+The company has been deleted from the commercial register.
 
----
+6. Blocked
+A company involved is blocked, which is why no further investigation can be carried out.
 
-## Ermittlungsergebnisse
-Die Ermittlungsergebnisse resultieren aus den Pfadergebnissen. Wenn Pfadergebnisse ausschließlich auf Informationen der SCHUFA basieren, werden auch die Ermittlungsergebnisse durch die SCHUFA ausgegeben. Sobald die Pfadergebnisse auf Informationen von Dun & Bradstreet beruhen, werden auch die Ermittlungsergebnisse basierend auf diesen Informationen ausgegeben.
+7. Circular reference
+In this case, there is a self-participation – either of the requested company itself or of a participating company.
 
-### Ermittlungsergebnisse - SCHUFA 
-SCHUFA unterscheidet zwischen vier Ermittlungsergebnissen.
+8. Others
+This termination of investigation is issued if a company has no capital shares. This would be the case, for example, with a foundation or an association.
 
-![ermittlungsergebnisse_schufa](/assets/ubo/ermittlungsergebnisse_schufa.png)
+Investigation Results
+The investigation results result from the path results. If path results are based exclusively on information from SCHUFA, the determination results are also output by SCHUFA. Once the path results are based on information from Dun & Bradstreet, the investigation results are also output based on that information.
 
-### Ermittlungs - Dun & Bradstreet
-Dun & Bradstreet unterscheidet zwischen vier Ermittlungsergebnissen.
+Investigation results - SCHUFA
+SCHUFA distinguishes between four investigation results.
 
-![ermittlungsergebnisse_d&b](/assets/ubo/ermittlungsergebnisse_dnb.png)
+![ermittlungsergebnisse_schufa_EN](/assets/ubo/ermittlungsergebnisse_schufa_EN.png)
+
+Investigation Results - Dun & Bradstreet
+ClariLab distinguishes between five investigation results
+
+![ermittlungsergebnisse_dnb_EN](/assets/ubo/ermittlungsergebnisse_dnb_EN.png)

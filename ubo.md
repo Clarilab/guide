@@ -19,16 +19,16 @@ The proof of investigation through SCHUFA is presented in the well-known GWG des
 
 ---
 
-Data sources
+## Data sources
 
 The information of the providers is not merged.
 
-Companies without relations outside of Germany
+### Companies without relations outside of Germany
 For companies without relations outside of Germany, ClariLab only uses information from SCHUFA.
 
 For the inquiry object GmbH 1 from Fig. 1, since it has no links abroad, the information of SCHUFA would be used
 
-Companies with relations outside of Germany
+### Companies with relations outside of Germany
 For companies with relations outside of Germany, ClariLab only uses information from Dun & Bradstreet.
 
 For the inquiry object GmbH 2 the data of Dun & Bradstreet would be used, since the company has links abroad, for example through a natural person abroad or a participating company abroad.
@@ -39,7 +39,9 @@ The data of Dun & Bradstreet would also be used for the inquiry object GmbH 3, a
 It is not possible to decide on a specific provider from the outset. In the case of an inquiry for a company based in Germany, it is always first checked based on the information provided by SCHUFA. If, during this examination, it is determined that the requested company has links abroad, the investigation via SCHUFA is aborted and instead investigated with only the information from Dun & Bradstreet. 
 When requesting a company based solely abroad, Dun & Bradstreet's information is used.
 
-General information about determination
+---
+
+## General information about determination
 As a basis for determining the beneficial ownership, the ownership and liability relationships, which result from the companies legal form, are used.
 
 The investigation logic always distinguishes between single-story and multi-story structures.
@@ -69,25 +71,32 @@ The direct participation is below the 25% threshold.
 In the case of indirect participation, A controls the intermediate company with more than 50%, which is why the 20% is credited to him as well.
 According to the sum rule, A thus holds a 30% stake in GmbH 1 and is considered a beneficial owner.
 
-Fictitious beneficial owners
+### Fictitious beneficial owners
 Only if no actual beneficial owner can be identified, the persons of the 1st management level are issued as fictitious beneficial owners.
 
 There are various reasons why no beneficial owners can be identified. These reasons result from the aborts of the investigation.
 
 ![ubo_szenario_f_EN](/assets/ubo/ubo_szenario f_EN.png)
 
-Steps of determination
+---
+
+## Steps of determination
+
 Several steps are necessary to determine the beneficial owners. So that these can be documented in a comprehensive manner, the results of all steps are documented.
 For this purpose, a distinction is made between investigation results (1) and path results (2).
 
 ![pfad_vs_ermittlungsergebnis_EN](/assets/ubo/pfad_vs_ermittlungsergebnis_EN.png)
 
-Path Results
+---
+
+## Path Results
+
 Path results can be identified beneficial owners. However, it can also happen that no conclusions can be drawn from a path. In this case, the investigation of the path is discontinued. A termination is a common process in the development of an investigation result and can have various reasons.
 
 ![pfadergebnisse_EN](/assets/ubo/pfadergebnisse_EN.png)
 
-Path results - SCHUFA
+### Path results - SCHUFA
+
 SCHUFA distinguishes between different reasons for cancellation, which are listed and explained below.
 
 1. Beneficial ownership
@@ -115,15 +124,17 @@ In this case, there is a self-participation – either of the requested company 
 8. Others
 This termination of investigation is issued if a company has no capital shares. This would be the case, for example, with a foundation or an association.
 
-Investigation Results
+---
+
+## Investigation Results
 The investigation results result from the path results. If path results are based exclusively on information from SCHUFA, the determination results are also output by SCHUFA. Once the path results are based on information from Dun & Bradstreet, the investigation results are also output based on that information.
 
-Investigation results - SCHUFA
+### Investigation results - SCHUFA
 SCHUFA distinguishes between four investigation results.
 
 ![ermittlungsergebnisse_schufa_EN](/assets/ubo/ermittlungsergebnisse_schufa_EN.png)
 
-Investigation Results - Dun & Bradstreet
+### Investigation Results - Dun & Bradstreet
 ClariLab distinguishes between five investigation results
 
 ![ermittlungsergebnisse_dnb_EN](/assets/ubo/ermittlungsergebnisse_dnb_EN.png)

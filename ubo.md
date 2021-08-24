@@ -63,7 +63,7 @@ Die GmbH 2 wiederum wird zu 95% von der natürlichen Person C gehalten, somit vo
 
 D: Wie auch schon die Person D, beherrscht auch Person E mit nur 45% Kapitalanteil das Unternehmen AG 2 nicht. Sie beherrscht deshalb nicht die AG 2 und wird deshalb nicht als wirtschaftlich berechtigte Person angesehen, unabhängig davon, dass AG 2 an für sich über 25% am angefragten Unternehmen hält.
 
-![ubo_szenario_e](/assets/ubo/ubo_szenarien e.png)
+![ubo_szenario_e](/assets/ubo/ubo_szenario e.png)
 
 E: Die natürliche Person A ist sowohl direkt als auch indirekt an der GmbH 1 beteiligt. 
 Die direkte Beteiligung liegt dabei für sich genommen unter der 25% Schwelle.
@@ -75,7 +75,7 @@ Erst wenn keine tatsächlich wirtschaftlich berechtigte Person ermittelt werden 
 
 Es gibt verschiedene Gründe, weshalb keine wirtschaftlich berechtigten Personen ermittelt werden können. Diese Gründe werden aus den Ermittlungsabbrüchen ersichtlich.
 
-![ubo_szenario_e](/assets/ubo/ubo_szenarien e.png)
+![ubo_szenario_e](/assets/ubo/ubo_szenario f (fiktive).png)
 
 ---
 
@@ -131,5 +131,6 @@ SCHUFA unterscheidet zwischen vier Ermittlungsergebnissen.
 ![ermittlungsergebnisse_schufa](/assets/ubo/ermittlungsergebnisse_schufa.png)
 
 ### Ermittlungs - Dun & Bradstreet
+Dun & Bradstreet unterscheidet zwischen vier Ermittlungsergebnissen.
 
 ![ermittlungsergebnisse_d&b](/assets/ubo/ermittlungsergebnisse_dnb.png)

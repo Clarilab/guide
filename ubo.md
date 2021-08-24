@@ -24,11 +24,13 @@ Der Ermittlungsnachweis ist seitens SCHUFA im bekannten GWG Design dargestellt u
 Die Informationen der Anbieter werden dabei nicht zusammengeführt.
 
 ### Unternehmen ohne Auslandsbeziehungen
+
 Für Unternehmen ohne Verflechtungen ins Ausland zieht KYCnow ausschließlich Informationen der SCHUFA heran.
 
 Für das Anfrageobjekt GmbH 1 aus Abb. 1, würden also, da es keinerlei Verflechtungen ins Ausland aufweist, die Informationen der SCHUFA herangezogen werden
 
 ### Unternehmen mit Auslandsbeziehungen
+
 Für Unternehmen mit Verflechtungen ins Ausland zieht KYCnow ausschließlich Informationen von Dun & Bradstreet heran.
 
 Für das Anfrageobjekt GmbH 2 würden also die Daten von Dun & Bradstreet herangezogen werden, da das Unternehmen Verflechtungen ins Ausland hat, beispielsweise durch eine natürliche Person im Ausland oder einem beteiligten Unternehmen im Ausland.
@@ -42,6 +44,7 @@ Bei einer Anfrage nach einem Unternehmen mit Sitz im Ausland werden die Informat
 ---
 
 ## Allgemeine Informationen über die Ermittlung
+
 Als Basis für die Ermittlung der wirtschaftlichen Berechtigung werden die Eigentums- und Haftungsverhältnisse, welche durch die Rechtsform begründet sind, herangezogen. 
  
 Die Ermittlungslogik unterscheidet dabei grundsätzlich zwischen einstöckigen und mehrstöckigen Strukturen.
@@ -75,11 +78,12 @@ Erst wenn keine tatsächlich wirtschaftlich berechtigte Person ermittelt werden 
 
 Es gibt verschiedene Gründe, weshalb keine wirtschaftlich berechtigten Personen ermittelt werden können. Diese Gründe werden aus den Ermittlungsabbrüchen ersichtlich.
 
-![ubo_szenario_e](/assets/ubo/ubo_szenario f (fiktive).png)
+![ubo_szenario_e](/assets/ubo/ubo_szenario f.png)
 
 ---
 
 ## Ermittlungsschritte
+
 Zur Ermittlung der wirtschaftlich Berechtigten sind zahlreiche Schritte notwendig. Damit diese nachvollziehbar dokumentiert werden können, werden die Ergebnisse aller Schritte dokumentiert. 
 Dafür wird zwischen Ermittlungsergebnissen (1) und Pfadergebnissen (2) unterschieden.
 
@@ -88,11 +92,13 @@ Dafür wird zwischen Ermittlungsergebnissen (1) und Pfadergebnissen (2) untersch
 ---
 
 ## Pfadergebnisse
+
 Pfadergebnisse können ermittelte wirtschaftlich berechtigte Personen sein. Es kann aber auch vorkommen, dass aus einem Pfad kein Rückschluss auf eine wirtschaftlich berechtigte Stellung getroffen werden kann. In diesem Fall kommt es zu einem Ermittlungsabbruch. Ein Ermittlungsabbruch ist ein üblicher Vorgang in der Erarbeitung eines Ermittlungsergebnisses und kann verschiedene Gründe haben.
 
 ![pfadergebnisse](/assets/ubo/pfadergebnisse.png)
 
 ### Pfadergebnisse - SCHUFA
+
 SCHUFA unterscheidet zwischen verschiedenen Abbruchsgründen, welche im Folgenden aufgezählt und erläutert werden. 
 
 1. Wirtschaftliche Berechtigung

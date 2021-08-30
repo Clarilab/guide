@@ -9,37 +9,37 @@ published: true
 ---
 
 Ein wirtschaftlich Berechtigter gem. §3 GwG ist eine natürliche Person, in deren Eigentum ein Unternehmen liegt oder die dieses Unternehmen kontrolliert.
-Außerdem kann ein wirtschaftlich Berechtigter auch die Person sein, die eine Transaktion veranlasst oder die eine Begründung einer Geschäftsbeziehung veranlasst.
+Außerdem kann ein wirtschaftlich Berechtigter auch die Person sein, die eine Transaktion oder die eine Begründung einer Geschäftsbeziehung veranlasst.
 
-Zur Ermittlung von wirtschaftlich Berechtigten bezieht KYCnow die Informationen von verschiedenen Anbietern, derzeit SCHUFA und Dun & Bradstreet.
-KYCnow ermittelt wirtschaftlich Berechtigte zunächst ausschließlich anhand deren Kapitalanteilen an dem jeweiligen Unternehmen. Das liegt daran, dass Stimmrechtsverteilungen nicht ohne weiteres ersichtlich sind. In der Regel kann entsprechend der Kapitalanteile auf die Kontrollstrukturen geschlossen werden, die überwiegend mit den Eigentumsverhältnissen äquivalent sind (Vermutungsprinzip).  
+Zur Ermittlung von wirtschaftlich Berechtigten bezieht KYCnow die zugrundeliegenden Daten von verschiedenen Anbietern, derzeit SCHUFA und Dun & Bradstreet.
+KYCnow ermittelt wirtschaftlich Berechtigte zunächst ausschließlich anhand deren Kapitel- bzw. Eigentümerstrukturen. Stimmrechtsanteile werden aktuell nicht berücksichtigt. In der Regel kann entsprechend der Kapitalanteile auf die Kontrollstrukturen geschlossen werden, die überwiegend mit den Eigentumsverhältnissen äquivalent sind (Vermutungsprinzip).  
 
-Grundsätzlich wird der wirtschaftlich Berechtigte unabhängig des Anbieters auf Basis desselben Regelwerks ermittelt, immer entlang der Auslegungs- und Anwendungshinweise der Deutschen Kreditwirtschaft.
+Grundsätzlich wird der wirtschaftlich Berechtigte unabhängig des Anbieters auf Basis desselben Regelwerks ermittelt, immer entlang der Auslegungs- und Anwendungshinweise der Deutschen Kreditwirtschaft. Dies bedeutet eine voreingestellte Ermittlung nach Beherrschungsprinzip (Domination Approach) und 25%-Regel in KYCnow. Abweichende Berechnungsmethoden, wie (Accumulation Approach oder prozentuale Grenzwerte jenseits der 25%) sind derzeit individuell abzustimmen.
 Der Ermittlungsnachweis ist seitens SCHUFA im bekannten GWG Design dargestellt und gestaltet sich seitens Dun & Bradstreet im reinen KYCnow Layout.
 
 ---
 
 ## Datenquellen
 
-Die Informationen der Anbieter werden dabei nicht zusammengeführt.
+Die Rohdaten der Anbieter werden aktuell nicht vermischt, sondern isoliert je Ermittlung genutzt.
 
 ### Unternehmen ohne Auslandsbeziehungen
 
-Für Unternehmen ohne Verflechtungen ins Ausland zieht KYCnow ausschließlich Informationen der SCHUFA heran.
+Für in Deutschland ansässige Unternehmen ohne Verflechtungen ins Ausland zieht KYCnow ausschließlich Daten der SCHUFA heran.
 
-Für das Anfrageobjekt GmbH 1 aus Abb. 1, würden also, da es keinerlei Verflechtungen ins Ausland aufweist, die Informationen der SCHUFA herangezogen werden
+Für das Anfrageobjekt GmbH 1 aus Abb. 1, würden also, da es keinerlei Verflechtungen ins Ausland aufweist, die Daten der SCHUFA herangezogen werden
 
 ### Unternehmen mit Auslandsbeziehungen
 
-Für Unternehmen mit Verflechtungen ins Ausland zieht KYCnow ausschließlich Informationen von Dun & Bradstreet heran.
+Für Unternehmen mit Verflechtungen ins Ausland zieht KYCnow ausschließlich Rohdaten von Dun & Bradstreet heran.
 
-Für das Anfrageobjekt GmbH 2 würden also die Daten von Dun & Bradstreet herangezogen werden, da das Unternehmen Verflechtungen ins Ausland hat, beispielsweise durch eine natürliche Person im Ausland oder einem beteiligten Unternehmen im Ausland.
+Für das Anfrageobjekt GmbH 2 würden also die Daten von Dun & Bradstreet herangezogen werden, da das in Deutschland ansässige Unternehmen Verflechtungen in das Ausland aufweist, weil dessen Kapitalanteile von einem im Ausland ansässigen Unternehmen gehalten werden. 
 Auch für das Anfrageobjekt GmbH 3 würden die Daten von Dun & Bradstreet herangezogen werden, da es vollständig im Ausland liegt.
 
 ![anfragelogik](/assets/wB/anfragelogik.png)
 
-Es ist nicht möglich sich von vornherein für einen bestimmten Anbieter zu entscheiden. Bei einer Anfrage nach einem Unternehmen mit Sitz in Deutschland wird immer zunächst anhand der Informationen der SCHUFA geprüft. Wird im Zuge dieser Prüfung festgestellt, dass das angefragte Unternehmen Verflechtungen ins Ausland hat, wird die Ermittlung über SCHUFA abgebrochen und stattdessen mit den Informationen von Dun & Bradstreet weiter ermittelt.
-Bei einer Anfrage nach einem Unternehmen mit Sitz im Ausland werden die Informationen von Dun & Bradstreet herangezogen.
+KYCnow entscheidet automatisch für den Anfragenden, welcher Partner in welcher Anfrage-Situation genutzt wird. Bei einer Anfrage nach einem Unternehmen mit Sitz in Deutschland wird zunächst immer Auf Basis der Informationen der SCHUFA geprüft. Wird im Zuge dieser Prüfung festgestellt, dass das angefragte Unternehmen Verflechtungen ins Ausland hat, wird die Ermittlung über SCHUFA verworfen und stattdessen anhand der Daten von Dun & Bradstreet weiter ermittelt. Die Unternehmens-Stammdaten werden in diesem Fall weiterhin von der SCHUFA genutzt.
+Bei einer Anfrage nach einem Unternehmen mit Sitz im Ausland werden die Daten vollständig von Dun & Bradstreet herangezogen.
 
 ---
 
@@ -84,7 +84,7 @@ Es gibt verschiedene Gründe, weshalb keine wirtschaftlich berechtigten Personen
 
 ## Ermittlungsschritte
 
-Zur Ermittlung der wirtschaftlich Berechtigten sind zahlreiche Schritte notwendig. Damit diese nachvollziehbar dokumentiert werden können, werden die Ergebnisse aller Schritte dokumentiert. 
+Zur Ermittlung der wirtschaftlich Berechtigten sind zahlreiche Schritte notwendig. Damit diese nachvollziehbar dokumentiert werden können, werden die Ergebnisse aller einzelnen Schritte dokumentiert. 
 Dafür wird zwischen Ermittlungsergebnissen (1) und Pfadergebnissen (2) unterschieden.
 
 ![ermittlungsschritte](/assets/wB/pfad_vs_ermittlungsergebnis.png)
@@ -93,7 +93,7 @@ Dafür wird zwischen Ermittlungsergebnissen (1) und Pfadergebnissen (2) untersch
 
 ## Pfadergebnisse
 
-Pfadergebnisse können ermittelte wirtschaftlich berechtigte Personen sein. Es kann aber auch vorkommen, dass aus einem Pfad kein Rückschluss auf eine wirtschaftlich berechtigte Stellung getroffen werden kann. In diesem Fall kommt es zu einem Ermittlungsabbruch. Ein Ermittlungsabbruch ist ein üblicher Vorgang in der Erarbeitung eines Ermittlungsergebnisses und kann verschiedene Gründe haben.
+Pfadergebnisse können ermittelte wirtschaftlich berechtigte Personen sein. Es kann aber auch vorkommen, dass aus einem Pfad kein Rückschluss auf eine wirtschaftlich berechtigte Stellung getroffen werden kann. In diesem Fall kommt es zu einem Ermittlungsabbruch. Ein Ermittlungsabbruch ist ein üblicher Vorgang in der Erarbeitung eines Ermittlungsergebnisses und kann verschiedene Gründe haben. Im Status Quo werden hinsichtlich Benennung und Informationstiefe leicht abweichende Pfadergebnisse zwischen den Datenquellen SCHUFA und Dun & Bradstreet ausgegeben. Diese sind im folgenden Bild visualisiert.
 
 ![pfadergebnisse](/assets/wB/pfadergebnisse.png)
 
@@ -136,7 +136,7 @@ SCHUFA unterscheidet zwischen vier Ermittlungsergebnissen.
 
 ![ermittlungsergebnisse_schufa](/assets/wB/ermittlungsergebnisse_schufa.png)
 
-### Ermittlungs - Dun & Bradstreet
-Dun & Bradstreet unterscheidet zwischen vier Ermittlungsergebnissen.
+### Ermittlungsergebnisse - Dun & Bradstreet
+Dun & Bradstreet unterscheidet zwischen fünf Ermittlungsergebnissen.
 
 ![ermittlungsergebnisse_d&b](/assets/wB/ermittlungsergebnisse_dnb.png)

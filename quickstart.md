@@ -208,6 +208,24 @@ In this tab you can look into all closed records. As in the tab "New records", y
 
 ---
 
+## Module Availability for non German Based Companies
+
+Some modules of the KYCnow platform are not available for companies located outside of Germany. The following table shows which modules are available:
+
+| Module                                 | Availability |
+|---------------------------------------|---------------|
+| Coredata                            | Yes            |
+| Determination of UBO | Yes            |
+| Linkage Graph                    | Yes            |
+| Register Documents                     | Coming Soon   |
+| Transparencyregister                   | No          |
+| Namescreening                         | Yes            |
+| Mediascreening                        | No          |
+| Credit Reports                  | Yes            |
+
+---
+
+
 ## Settings as administrator
 
 ![leftbar_settings](assets/quickstart/leftbar_settings.png)

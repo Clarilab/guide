@@ -233,6 +233,23 @@ Auch hier können Sie, wie schon im Reiter „Neue Fälle“, durch klicken auf 
 
 ---
 
+## Modulverfügbarkeit im Ausland ansässiger Unternehmen
+
+Einige Module der KYCnow Plattform stehen nicht für außerhalb von Deutschland ansässige Unternehmen zur Verfügung. Folgende Tabelle zeigt auf, welche Module in diesem Rahmen verfügbar sind:
+
+| Modul                                 | Verfügbarkeit |
+|---------------------------------------|---------------|
+| Stammdaten                            | Ja            |
+| Ermittlung wirtschaftlich Berechtiger | Ja            |
+| Verflechtungsgraph                    | Ja            |
+| Registerdokumente                     | Coming Soon   |
+| Transparenzregister                   | Nein          |
+| Namescreening                         | Ja            |
+| Mediascreening                        | Nein          |
+| Wirtschaftsauskünfte                  | Ja            |
+
+---
+
 ## Einstellungen als Administrator
 
 ![linkeleiste_einstellungen](assets/schnellstart/linkeleiste_einstellungen.png)

@@ -16,4 +16,4 @@ Wir helfen Ihnen beim Einsatz der KYCnow-Plattform.
 - [Transparenzregister](transparenzregister)
 
 - [Schnellstart - Privatpersonen](retail)
-- [Quickstart - Privat persons](transparenzregister)
+- [Quickstart - Privat persons](retail_EN)

@@ -4,15 +4,15 @@
 | Stammdaten national | SCHUFA | x | x |  |
 | Stammdaten international | Bisnode | x |  |  |
 | UBO national (GwG-Auskunft) | SCHUFA | x | x |  |
-| UBO international | SCHUFA | x |  |  |
+| UBO international | Bisnode | x |  |  |
 | Name-Screening (Compliance-Service) | SCHUFA | x | x |  |
 | Name-Screening Monitoring (Compliance-Service) | SCHUFA | x |  |  |
 | Media-Screening | ClariLab | x | x |  |
 | Verflechtungsgraph national | SCHUFA | x | x |  |
 | Verflechtungsgraph international | Bisnode | x |  |  |
-| Handelsregister (DE) | ClariLab | x | x |  | x |
+| Handelsregister (DE) | bundesanzeiger | x | x |  | x |
 | Register international | kompany |  |  |  |
-|Kurzauskunft Kaskade|SCHUFA||x|||
+| Kurzauskunft Kaskade|SCHUFA||x|||
 | Kurzauskunft | SCHUFA | x | x |  | x |
 | Kurzauskunft Monitoring | SCHUFA |  |  |  | 
 | Kompaktauskunft | SCHUFA | x | x |  | x |
@@ -28,4 +28,3 @@
 | StandardFinancialRiskAssessment | D&B |  |  |  | x |
 | TrafficLight | D&B |  |  |  | x |
 |  |  |  |  |  |
-

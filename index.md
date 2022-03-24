@@ -17,3 +17,8 @@ Wir helfen Ihnen beim Einsatz der KYCnow-Plattform.
 
 - [Schnellstart - Privatpersonen](retail)
 - [Quickstart - Privat persons](retail_EN)
+
+
+### Test Unternehmen
+
+- - [Deutsche Unternehmen](testcompanies_transparencyregister)

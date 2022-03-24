@@ -21,4 +21,6 @@ Wir helfen Ihnen beim Einsatz der KYCnow-Plattform.
 
 ### Test Unternehmen
 
-- [Deutsche Unternehmen](testcompanies_transparencyregister)
+- [Deutsche Unternehmen](testcompanies_germany)
+- [Kurzauskunft Direkt Kaskade](testcompanies_cascade)
+- [Transparenzregister](testcompanies_transparencyregister)

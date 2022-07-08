@@ -14,11 +14,11 @@
 | Register international | kompany |  |  |  |
 | Kurzauskunft Kaskade|SCHUFA||x|||
 | Kurzauskunft | SCHUFA | x | x |  | x |
-| Kurzauskunft Monitoring | SCHUFA |  |  |  | 
+| Kurzauskunft Monitoring | SCHUFA |  |  | x | 
 | Kompaktauskunft | SCHUFA | x | x |  | x |
 | Kompaktauskunft Monitoring | SCHUFA |  |  |  | x |
 | Vollauskunft | SCHUFA | x |  |  | x |
-| Vollauskunft Monitoring | SCHUFA |  |  |  |  |
+| Vollauskunft Monitoring | SCHUFA |  |  |  | x |
 | CreditFullReport  | Coface | x |  |  | x |
 | CreditFullReport Recherche | Coface |  |  |  |
 | Transparenzregister | ClariLab | x |  |  |

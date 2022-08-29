@@ -15,7 +15,7 @@ Tobias Eiss, Tobias Weber
 
 ### Kontakt
 Mail: hello@clarilab.de  
-Telefon: 01735705071
+Telefon: 069 348 671 40
 
 ### Registereinterag
 HRA 51453 Amtsgericht Frankfurt am Main  
